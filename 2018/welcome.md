@@ -3,10 +3,6 @@ layout: article
 title: Welcome
 permalink: /2018/Welcome
 key: 2018-Welcome
-aside:
-  toc: true
-sidebar:
-  nav: 2018
 ---
 
 
