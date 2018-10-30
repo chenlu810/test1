@@ -21,7 +21,6 @@ sidebar:
 
 6 . CMS内容管理系统新增“数据统计”板块。
 
-[PDF下载](doc_monthlyreport/pdf/火花学院2018年10月月报.pdf)
 
 
 # 一、内容制作
@@ -42,11 +41,11 @@ sidebar:
 
 聊天窗口示意
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181021.png)
+![avatar](images/20181021.png)
 
 班级管理示意
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181022.png)
+![avatar](images/20181022.png)
 
 ## 2.2 解决戴特无手机号用户登录火花学院的问题
 
@@ -54,11 +53,11 @@ sidebar:
 
 ## 2.3 PMS素材管理系统可增加AR类型素材
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181023.png)
+![avatar](images/20181023.png)
 
 ## 2.4 CMS内容管理系统新增素材、课件、微课SEO信息编辑
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181024.png)
+![avatar](images/20181024.png)
 
 ## 2.5 CMS内容管理系统新增“数据统计”板块
 
@@ -68,11 +67,11 @@ sidebar:
 
 （3）概览及各素材分类统计页面可查看最近一周数据详表（时间、累计新增素材、新增图片、新增视频、新增微件、新增3D，累计素材）。
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181025.png)
+![avatar](images/20181025.png)
 
 ## 2.6 OMS运营管理系统新增用户增加主授学科信息选择，并优化重置密码功能
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181026.png)
+![avatar](images/20181026.png)
 
 ## 2.7 其他
 
@@ -82,7 +81,7 @@ sidebar:
 
 ## 3.1 本月支撑公开课15次，获得国家级金奖1次
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181027.png)
+![avatar](images/20181027.png)
 
 ## 3.2 品牌运营
 
@@ -98,7 +97,7 @@ sidebar:
 
 点击量最高文章：（阅读量430次）
 
-![avatar](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2018/images/20181028.png)
+![avatar](images/20181028.png)
 
 （2）知乎机构号
 
