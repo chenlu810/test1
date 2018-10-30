@@ -22,7 +22,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # https://xiyue-team.github.io/doc_monthlyreport/
 baseurl : # does not include hostname
-title   : 火花学院月报中心
+title   : 火花学院月报
 description: > # this means to ignore newlines until "Language & timezone"
   月度工作成果汇报，包含内容制作、软件开发及运营支撑三部分。
 
