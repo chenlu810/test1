@@ -13,11 +13,11 @@ sidebar:
 
 <bro/><bro/>
 
-**<font size="4" color="red">1. 完成5个学科共49个精品素材的开发及上线；</font>**
+**<font size="4" color="red">1.完成5个学科共49个精品素材的开发及上线；</font>**
 
-**<font size="4" color="red">2. 支撑15堂公开课，获得国家级金奖1次；</font>**
+**<font size="4" color="red">2.支撑15堂公开课，获得国家级金奖1次；</font>**
 
-**<font size="4" color="red">3. 桌面端火花即时通讯(IM)demo版本启动开发。</font>**
+**<font size="4" color="red">3.桌面端火花即时通讯(IM)demo版启动开发。</font>**
 
 
 # <font size="5" color="gray">一、内容制作</font>
