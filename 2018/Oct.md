@@ -38,7 +38,7 @@ sidebar:
 
 ![avatar](images/20181012.png)
 
-![avatar](images/20181013.png)
+![avatar](images/20181013.jpg)
 
 ![avatar](images/20181014.png)
 
