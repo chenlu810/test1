@@ -66,7 +66,7 @@ sidebar:
 
 ## <font size="4" >3.1 本月支撑公开课15次，获得国家级金奖1次</font>
 
-
+![avatar](images/20101031.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
