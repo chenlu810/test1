@@ -17,7 +17,7 @@ sidebar:
 
 **<font size="4" color="red">2 . 为15堂公开课提供支撑，获得国家级金奖1次；</font>**
 
-**<font size="4" color="red">3 . 桌面端火花即时通讯（IM）demo版本启动开发；</font>**
+**<font size="4" color="red">3 . 桌面端火花即时通讯（IM）demo版本启动开发。</font>**
 
 
 # <font size="5" color="gray">一、内容制作</font>
