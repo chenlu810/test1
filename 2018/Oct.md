@@ -10,7 +10,9 @@ sidebar:
 ---
 
 摘要：
-<bro/>
+
+<bro/><bro/>
+
 **<font size="4" color="red">1 . 本月共完成5个学科共49个精品素材的开发及上线；</font>**
 
 **<font size="4" color="red">2 . 为15堂公开课提供支撑，获得国家级金奖1次；</font>**
