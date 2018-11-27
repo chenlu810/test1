@@ -25,8 +25,8 @@ sidebar:
 
 [PDF下载](https://raw.githubusercontent.com/Xiyue-team/doc_monthlyreport/master/pdf/%E7%81%AB%E8%8A%B1%E5%AD%A6%E9%99%A22018%E5%B9%B45%E6%9C%88%E6%9C%88%E6%8A%A5.pdf)
 
-# <font size="5" color="gray">一、内容制作</font>
+# <font size="5" color="white">一、内容制作</font>
 
-# <font size="5" color="gray">二、软件开发</font>
+# <font size="5" color="white">二、软件开发</font>
 
-# <font size="5" color="gray">三、运营支撑</font>
+# <font size="5" color="white">三、运营支撑</font>
