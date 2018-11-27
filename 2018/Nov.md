@@ -94,3 +94,14 @@ sidebar:
 
 关注总人数33人，推文4篇，回答问题5个，提问5个。
 
+### <font size="3" >（3）火花学院logo全新升级</font>
+
+![avatar](images/201811logo.png)
+
+### <font size="3" >（4）C30宣传册设计完成</font>
+
+![avatar](images/20181135.jpg)
+
+![avatar](images/20181136.jpg)
+
+
