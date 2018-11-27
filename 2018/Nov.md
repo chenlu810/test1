@@ -19,7 +19,7 @@ sidebar:
 
 **<font size="4" color="red">3.火花学院logo全新升级，C30宣传册设计完成；</font>**
 
-**<font size="4" color="red">4.支撑15堂公开课，获得国家级金奖1次；</font>**
+**<font size="4" color="red">4.支撑15堂公开课，获得省级金奖1次；</font>**
 
 **<font size="4" color="red">5.完成4个学科共24个精品素材的开发及上线，优化原有素材52个。</font>**
 
