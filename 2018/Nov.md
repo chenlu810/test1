@@ -51,7 +51,7 @@ sidebar:
 
 （4）优化文本框大小变化问题、文本对齐问题、镜头旋转添加图片位置错误等。
 
-## <font size="4" >2.2 移动端</font>
+## <font size="4" >2.2 移动端开发进度</font>
   
 （1）安卓版本重构结束，软件代码结构得到进一步规范和优化；
 
@@ -69,7 +69,7 @@ sidebar:
 
 微信公众号全新改版，新增AR体验功能；
 
-[**<font size="4" color="red">手机单击AR体验↙</font>**](https://huohua-prod.ustcnmi.org/webar/)
+[**<font color="red">手机单击AR体验↙</font>**](https://huohua-prod.ustcnmi.org/webar/)
 
 ![avatar](images/20181132.png)
 
@@ -77,7 +77,7 @@ sidebar:
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-|[分子也会跳舞-这么有模有样的分子，你不了解一下？](https://mp.weixin.qq.com/s/0xxd0XgX219qZJiYTaYKpQ)| **<font color="red">433</font>** |
+|[↙](https://mp.weixin.qq.com/s/0xxd0XgX219qZJiYTaYKpQ)| **<font color="red">433</font>** |
 |十月地理老师喊你出门啦！| 289 |
 |病毒都是坏蛋吗？走近诺贝尔奖-神奇的噬菌体| 178 |
 |借助形状工具给课件增色| 129 |
@@ -94,10 +94,3 @@ sidebar:
 
 关注总人数33人，推文4篇，回答问题5个，提问5个。
 
-推文如下：
-
-[有了这些，地理还怕学不好吗？](https://zhuanlan.zhihu.com/p/43718551)
-
-[黎曼猜想：来自珠穆朗玛的曙光](https://zhuanlan.zhihu.com/p/45704736)
-
-[NP和霍奇猜想](https://zhuanlan.zhihu.com/p/46956761)
