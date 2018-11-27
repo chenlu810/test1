@@ -78,7 +78,7 @@ sidebar:
 
 微信公众号全新改版，新增AR体验功能；
 
-[**<font size="4" color="red">单击AR体验←--</font>**](https://huohua-prod.ustcnmi.org/webar/)
+[**<font size="4" color="red">手机单击AR体验↙</font>**](https://huohua-prod.ustcnmi.org/webar/)
 
 ![avatar](images/20181132.png)
 
