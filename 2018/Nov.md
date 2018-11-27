@@ -15,13 +15,13 @@ sidebar:
 
 **<font size="4" color="red">1.立体几何电子书上线；</font>**
 
-**<font size="4" color="red">2.火花学院微信公众号全新改版，新增AR体验功能。</font>**
+**<font size="4" color="red">2.火花学院微信公众号全新改版，新增AR体验功能；</font>**
 
-**<font size="4" color="red">3.火花学院logo全新升级，C30宣传册设计完成。</font>**
+**<font size="4" color="red">3.火花学院logo全新升级，C30宣传册设计完成；</font>**
 
 **<font size="4" color="red">4.支撑15堂公开课，获得国家级金奖1次；</font>**
 
-**<font size="4" color="red">5.完成4个学科共24个精品素材的开发及上线，优化原有素材52个；</font>**
+**<font size="4" color="red">5.完成4个学科共24个精品素材的开发及上线，优化原有素材52个。</font>**
 
 # <font size="5" color="gray">一、内容制作</font>
 
