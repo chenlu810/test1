@@ -95,7 +95,7 @@ sidebar:
 
 ![avatar](images/201811compare.png)
 
-### <font size="3" >（4）C30宣传册设计完成</font>
+### <font size="3" >（4）C30宣传册设计出炉</font>
 
 ![avatar](images/20181135.jpg)
 
