@@ -13,7 +13,7 @@ sidebar:
 
 <bro/><bro/>
 
-**<font size="4" color="red">1.立体几何电子书上线；</font>**
+**<font size="4" color="red">1.《立体几何》电子书上线；</font>**
 
 **<font size="4" color="red">2.火花学院微信公众号全新改版，新增AR体验功能；</font>**
 
