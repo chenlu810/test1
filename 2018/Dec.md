@@ -48,7 +48,7 @@ sidebar:
 
 ## <font size="4" >2.1 火花学院PC端官网改版上线，新增“专题”版块
 
-新版官网[www.huohuaschool.com](www.huohuaschool.com)将与旧版官网[huohua-prod.ustcnmi.org](huohua-prod.ustcnmi.org) 并行使用;
+新版官网域名[www.huohuaschool.com](www.huohuaschool.com)将与旧版官网域名[huohua-prod.ustcnmi.org](huohua-prod.ustcnmi.org) 并行使用;
 
 ![avatar](images/20181224.png)
 
