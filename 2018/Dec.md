@@ -48,7 +48,7 @@ sidebar:
 
 ## <font size="4" >2.1 PC端官网改版上线，新增“专题”版块
 
-新版官网域名[www.huohuaschool.com](www.huohuaschool.com)将与原域名[huohua-prod.ustcnmi.org](huohua-prod.ustcnmi.org) 并行使用;
+新版官网域名[www.huohuaschool.com](www.huohuaschool.com)将与原域名[huohua-prod.ustcnmi.org](huohua-prod.ustcnmi.org) 并行使用
 
 ![avatar](images/20181224.png)
 
@@ -116,7 +116,7 @@ sidebar:
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-|[教师必备！16款最值得收藏的app推荐↙](https://mp.weixin.qq.com/s/-VsDm0fqip4HI6U7WPKc9Q)| **<font color="red">1009</font>** |
+|[教师必备！16款最值得收藏的app推荐↙](https://mp.weixin.qq.com/s/Zr81jnhnh83AdPo5LRu5-w)| **<font color="red">1009</font>** |
 |日常纠结|超市快过期打折的食品到底买不买？| 143 |
 |火花学院获奖作品展·生物| 42 |
 |大雪·我这里下雪了，你那里呢| 31 |
