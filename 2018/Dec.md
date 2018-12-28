@@ -19,7 +19,7 @@ sidebar:
 
 **<font size="4" color="red">3. 微信公众号新增课例及专题版块；</font>**
 
-**<font size="4" color="red">4. 支撑46堂公开课；</font>**
+**<font size="4" color="red">4. 支撑46堂公开课，获市级二等奖一次；</font>**
 
 **<font size="4" color="red">5. 完成5个学科共44个精品素材的开发及上线，其中公开课定制开发26个。</font>**
 
@@ -98,7 +98,7 @@ sidebar:
 
 # <font size="5" color="gray">三、运营支撑</font>
 
-## <font size="4" >3.1 支撑公开课46次</font>
+## <font size="4" >3.1 支撑公开课46次，获市级二等奖一次</font>
 
 ![avatar](images/20181231.png)
 
