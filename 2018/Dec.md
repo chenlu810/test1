@@ -42,7 +42,7 @@ sidebar:
 
 ![avatar](images/20181214.png)
 
-![avatar](images/20181215'.png)
+![avatar](images/20181215.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
