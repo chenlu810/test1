@@ -15,7 +15,7 @@ sidebar:
 
 **<font size="4" color="red">1. PC端及移动端新官网上线，新增专题版块；</font>**
 
-**<font size="4" color="red">2. 火花学院微课小程序上线；</font>**
+**<font size="4" color="red">2. “火花微课”小程序上线；</font>**
 
 **<font size="4" color="red">3. 微信公众号新增课例及专题版块；</font>**
 
@@ -72,7 +72,7 @@ sidebar:
   
 ![avatar](images/20181223.png)
 
-## <font size="4" >2.3 微课小程序上线
+## <font size="4" >2.3  “火花微课”小程序上线
 
 以优质微课独立产品形态呈现
 
