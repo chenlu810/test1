@@ -13,26 +13,26 @@ sidebar:
 
 <bro/><bro/>
 
-**<font size="4" color="red">1. PC端及移动端新官网上线，新增专题版块；</font>**
+**<font size="4" color="orange">1. 上架五本数字教学参考书电子版；</font>**
 
-**<font size="4" color="red">2. “火花微课”小程序上线；</font>**
+**<font size="4" color="orange">2. 八个学科共新增素材4750个，开发量较2017年提升3倍；</font>**
 
-**<font size="4" color="red">3. 微信公众号新增课例及专题版块；</font>**
+**<font size="4" color="orange">3. PC端实现微课录制功能，火花学院微课中心建立；</font>**
 
-**<font size="4" color="red">4. 支撑46堂公开课，已确认获市级二等奖一次，其他结果未公布；</font>**
+**<font size="4" color="orange">4. 编辑器新增多套主题课件模板，方便用户制作火花课件；</font>**
 
-**<font size="4" color="red">5. 完成5个学科共44个精品素材的开发及上线，其中公开课定制开发26个。</font>**
+**<font size="4" color="orange">5. 官网改版上线，新增专题版块及相关推荐内容。</font>**
+
+**<font size="4" color="orange">6. 官网改版上线，新增专题版块及相关推荐内容。</font>**
 
 
-
-
-# <font size="5" color="gray">一、2018年上架五本数字教学参考书电子版</font>
+# <font size="5" color="gray">一、上架五本数字教学参考书电子版</font>
 
 2018年新上架《声光热能》、《有机化学》、《立体几何》、《自然地理》、《遗传与净化》
 
 ![avatar](images/2018book.png)
 
-# <font size="5" color="gray">二、2018年新增素材、课件、微课共 个</font>
+# <font size="5" color="gray">二、八个学科共新增素材4750个</font>
 
 | 学段 |  素材数量  | 
 |-------------|:------:|
@@ -44,20 +44,42 @@ sidebar:
 | 初中物理	| 418 |
 | 小学数学	| 467 |
 | 小学科学	| 404 |
-| 合计： | 4750 |
+| 合计：| 4750 |
 
+# <font size="5" color="gray">三、PC端实现微课录制功能，火花学院微课中心建立</font>
 
-# <font size="5" color="gray">三、PC端实现微课录制功能，建立火花学院微课中心，为产品未来打造名校精品资源奠定基础。</font>
+![avatar](images/2018mc.png)
 
+# <font size="5" color="gray">四、编辑器新增多套主题课件模板，方便用户制作火花课件</font>
 
+![avatar](images/2018templates.png)
 
-## <font size="4" >1.1 2018年新增素材、课件、微课分别 个</font>
+# <font size="5" color="gray">五、官网改版上线，新增专题版块及相关推荐内容</font>
+
+![avatar](images/2018website.png)
+
+![avatar](images/2018topic1.png)
 
 ![avatar](images/2018content.png)
 
+# <font size="5" color="gray">六、支持9省公共课98次，获特等奖及一等奖22次</font>
 
+| 等级 |  数量  | 
+|----------|:------:|
+| <font color="orange">特等奖</font> | 3 |
+| <font color="orange">一等奖</font>	| 19 |
+| 二等奖	| 4 |
+| 三等奖	| 1 |
+| 观摩课	| 35 |
+| 结果未出	| 38 |
 
-# <font size="5" color="gray">四、品牌形象升级</font>
+# <font size="5" color="gray">七、微信公众号改版，新增AR体验功能</font>
+
+# <font size="5" color="gray">八、火花学院小程序上线，火花微课为首个上线小程序</font>
+
+# <font size="5" color="gray">九、微信公众号关注总人数1001人，发表文章61篇，总点击量</font>
+
+# <font size="5" color="gray">十、品牌形象升级</font>
 
 火花学院LOGO全新升级，新LOGO造型圆润柔和更有亲和力，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等全面更新。
 
