@@ -40,7 +40,7 @@ sidebar:
 
 ![avatar](images/2018templates.png)
 
-# <font size="5" color="gray">四、官网顶级域名启用</font>
+# <font size="5" color="gray">四、顶级域名启用</font>
 
 2018年火花学院官网改版，[www.huohuaschool.com](www.huohuaschool.com)新域名启用，新增专题版块及相关资源推荐；
 
@@ -48,7 +48,7 @@ sidebar:
 
 ![avatar](images/2018topic1.png)
 
-# <font size="5" color="gray">五、微信公众号新增AR体验</font>
+# <font size="5" color="gray">五、公众号新增AR体验</font>
 
 2018年微信公众号新增AR体验及课例版块
 
