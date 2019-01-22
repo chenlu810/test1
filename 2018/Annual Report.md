@@ -9,7 +9,6 @@ sidebar:
   nav: 2018
 ---
 
-# <font size="5">火花学院大事记</font>
 
 <bro/><bro/>
 
@@ -17,63 +16,55 @@ sidebar:
 
 <bro/><bro/>
 
-# <font size="5" color="gray">一、上架五本数字教学参考书（电子版），新增小初高八个学科素材共4750个</font>
+# <font size="5" color="gray">一、可视化内容扩充</font>
 
-2018年素材开发列表
+2018年上架五本数字教学参考书（电子版），新增小初高全学段八个学科十二个知识模块素材共4750个
 
 ![avatar](images/2018content0.png)
 
-2018年电子书列表
-
 ![avatar](images/2018book.png)
 
-《声光热能》、《有机化学》、《立体几何》、《自然地理》、《遗传与净化》为2018年新上架
+# <font size="5" color="gray">二、公开课获奖增多</font>
 
-# <font size="5" color="gray">二、跨9省支持公开课98次，获特等奖及一等奖共22次</font>
-
-2018年火花学院公开课获奖统计
+2018年火花学院跨9省支持公开课98次、获特等奖及一等奖共22次，分别为2016-2017年的9倍、4倍
 
 ![avatar](images/2018prize.png)
 
-# <font size="5" color="gray">三、客户端新增微课录制功能，新增多套主题课件模板</font>
+其中与蚌埠二中生物老师陶洁敏合作的《呼吸作用和光合作用》获得比赛全国最高奖，与蚌埠二中地理老师汪琳琳合作的《大气受热过程及温室效应的探究》获得国家级银奖（地理学科最高奖），与
 
-智能PC微课录制
+![avatar](images/2018jbb.png)
 
-![avatar](images/2018mc1.jpg)
+# <font size="5" color="gray">三、客户端功能完善</font>
 
-火花课件模板
+2018年火花学院客户端适配移动端、PC端所有主流平台系统；新增多套主题课件模板，新增微课录制功能，用户内容生产更便利
 
 ![avatar](images/2018templates.png)
 
-# <font size="5" color="gray">四、官网改版上线，新增专题版块及相关推荐内容</font>
+![avatar](images/2018mc1.jpg)
 
-火花学院官网首页
+# <font size="5" color="gray">四、官网顶级域名启用</font>
+
+2018年火花学院官网改版，[www.huohuaschool.com](www.huohuaschool.com)新域名启用，新增专题版块及相关资源推荐；
 
 ![avatar](images/2018website.png)
 
-火花学院官网专题模块
-
 ![avatar](images/2018topic1.png)
 
-火花学院数字教学参考书简介及资源推介
+# <font size="5" color="gray">五、微信公众号新增AR体验</font>
 
-![avatar](images/2018content.png)
-
-# <font size="5" color="gray">五、微信公众号改版，新增AR体验功能及课例版块</font>
-
-火花学院公众号新版块
+2018年微信公众号新增AR体验及课例版块
 
 ![avatar](images/2018WeChat1.png)
 
-# <font size="5" color="gray">六、火花学院小程序上线，火花微课为首个上线小程序</font>
+# <font size="5" color="gray">六、微课小程序上线</font>
 
-火花微课小程序
+2018年火花学院首个微信小程序（火花微课）上线
 
 ![avatar](images/20181227.png)
 
-# <font size="5" color="gray">七、品牌形象全面升级</font>
+# <font size="5" color="gray">七、品牌形象升级</font>
 
-火花学院LOGO全新升级，新LOGO造型圆润柔和，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等全面更新。
+2018年火花学院LOGO升级，新LOGO造型圆润柔和，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等同步更新。
 
 火花学院LOGO
 
@@ -89,9 +80,9 @@ sidebar:
 
 ![avatar](images/2018card.png)
 
-# <font size="5" color="gray">八、微信公众号关注总人数1001人，发表文章61篇</font>
+# <font size="5" color="gray">八、公众号推文61篇</font>
 
-微信前十推文
+2018年前十推文
 
 | 阅读量排名 |  推文  | 
 |-------------|:------:|
