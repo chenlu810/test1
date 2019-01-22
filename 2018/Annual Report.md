@@ -9,7 +9,7 @@ sidebar:
   nav: 2018
 ---
 
-# <font size="5">摘要：</font>
+# <font size="5">火花学院大事记</font>
 
 <bro/><bro/>
 
