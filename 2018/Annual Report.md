@@ -17,17 +17,15 @@ sidebar:
 
 **<font size="4" color="orange">2.跨9省支持公开课98次，获特等奖及一等奖共22次； </font>**
 
-**<font size="4" color="orange">3.官网改版，[www.huohuaschool.com](www.huohuaschool.com) 启用，新增专题版块及相关内容推荐；</font>**
+**<font size="4" color="orange">3.官网改版，[www.huohuaschool.com](https://www.huohuaschool.com/) 启用，新增专题版块及相关内容推荐；</font>**
 
 **<font size="4" color="orange">4.客户端新增多套主题课件模板，新增微课录制功能，火花学院微课中心建立；</font>**
 
 **<font size="4" color="orange">5.火花学院小程序上线，火花微课为首个上线小程序；</font>**
 
-**<font size="4" color="orange">6.；</font>**
+**<font size="4" color="orange">6.品牌形象升级；</font>**
 
-**<font size="4" color="orange">7.品牌形象升级；</font>**
-
-**<font size="4" color="orange">8.微信公众号改版，新增AR体验功能；微信公众号关注总人数1001人，发表文章61篇。</font>**
+**<font size="4" color="orange">7.微信公众号改版，新增AR体验功能；微信公众号关注总人数1001人，发表文章61篇。</font>**
 
 <bro/><bro/>
 
