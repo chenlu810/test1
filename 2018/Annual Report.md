@@ -23,7 +23,7 @@ sidebar:
 
 **<font size="4" color="orange"> 5. 官网改版上线，新增专题版块及相关推荐内容；</font>**
 
-**<font size="4" color="orange"> 6. 跨9省支持公共课98次，获特等奖及一等奖共22次；</font>**
+**<font size="4" color="orange"> 6. 跨9省支持公开课98次，获特等奖及一等奖共22次；</font>**
 
 **<font size="4" color="orange"> 7. 微信公众号改版，新增AR体验功能；</font>**
 
