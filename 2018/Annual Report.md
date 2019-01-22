@@ -23,7 +23,7 @@ sidebar:
 
 ![avatar](images/2018book.png)
 
-2018年新增小初高全学段八个学科十二个知识模块素材共4750个
+2018年新增小初高全学段8个学科12个知识模块素材共4750个
 
 ![avatar](images/2018content0.png)
 
