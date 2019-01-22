@@ -9,6 +9,7 @@ sidebar:
   nav: 2018
 ---
 
+<bro/><bro/>
 
 <bro/><bro/><bro/><bro/>
 
@@ -18,9 +19,11 @@ sidebar:
 
 # <font size="5" color="gray">一、可视化内容扩充</font>
 
-2018年上架五本数字教学参考书（电子版），新增小初高全学段八个学科十二个知识模块素材共4750个
+2018年上架五本数字教学参考书（电子版）
 
 ![avatar](images/2018book.png)
+
+2018年新增小初高全学段八个学科十二个知识模块素材共4750个
 
 ![avatar](images/2018content0.png)
 
@@ -42,7 +45,7 @@ sidebar:
 
 # <font size="5" color="gray">四、顶级域名启用</font>
 
-2018年火花学院官网改版，[www.huohuaschool.com](www.huohuaschool.com)新域名启用，新增专题版块及相关资源推荐；
+2018年火花学院官网改版，[www.huohuaschool.com](www.huohuaschool.com)启用，新增专题版块及相关资源推荐；
 
 ![avatar](images/2018website.png)
 
@@ -83,7 +86,7 @@ sidebar:
 2018年前十推文
 
 | 阅读量排名 |  推文  | 
-|-------------|:------:|
+|:------:|:---------------|
 | 1	|[不好意思，我们又拿第一名了！这回是物理！↙](https://mp.weixin.qq.com/s/mxKigvQGgJf-5zuH2nBmlQ)|
 | 2	|[教师必备！16款最值得收藏的app推荐↙](https://mp.weixin.qq.com/s/Zr81jnhnh83AdPo5LRu5-w)|
 | 3	|[独家解密蚌埠二中为何又双叒叕获奖！这次还是金奖！↙](https://mp.weixin.qq.com/s/vqiH-5LKzHn0OgwBDJrHew)|
