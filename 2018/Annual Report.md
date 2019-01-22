@@ -61,7 +61,7 @@ sidebar:
 
 2018年火花学院首个微信小程序（火花微课）上线
 
-![avatar](images/20181227.png)
+![avatar](images/2018xcx.png)
 
 # <font size="5" color="gray">七、品牌形象升级</font>
 
