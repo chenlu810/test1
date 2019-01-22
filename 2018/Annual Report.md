@@ -17,19 +17,21 @@ sidebar:
 
 **<font size="4" color="orange">·2018年度火花学院客户端功能不断完善，适配移动端、桌面端所有主流平台系统；新增多套主题课件模板，新增微课录制功能，用户内容生产更便利； </font>**
 
-**<font size="4" color="orange">·2018年度火花学院跨9省支持公开课98次，约为2016-2017年的9倍，获特等奖及一等奖共22次，约为2016-2017年的4倍；</font>**
+**<font size="4" color="orange">·2018年度火花学院服务能力增强，跨9省支持公开课98次，约为2016-2017年的9倍，获特等奖及一等奖共22次，约为2016-2017年的4倍；</font>**
 
 **<font size="4" color="orange">·2018年度火花学院官网改版，新域名启用，新增专题版块及相关内容推荐；微信公众号改版，新增AR体验及课例版块；火花学院首个微信小程序（火花微课）上线；</font>**
 
 **<font size="4" color="orange">·2018年度火花学院品牌形象升级，各端UI加载动效、对外宣传文档模版、微信公众号视觉规范、火花学院充值卡版面设计等同步更新；</font>**
 
-**<font size="4" color="orange">·2018年度火花学院微信公众号关注总人数1001人，发表文章61篇。</font>**
-
 <bro/><bro/>
 
 # <font size="5" color="gray">一、上架五本数字教学参考书（电子版），新增小初高八个学科素材共4750个</font>
 
+2018年素材开发列表
+
 ![avatar](images/2018content0.png)
+
+2018年电子书列表
 
 ![avatar](images/2018book.png)
 
@@ -55,7 +57,15 @@ sidebar:
 
 ![avatar](images/2018content.png)
 
-# <font size="5" color="gray">五、品牌形象全面升级</font>
+# <font size="5" color="gray">五、微信公众号改版，新增AR体验功能及课例版块</font>
+
+![avatar](images/2018WeChat1.png)
+
+# <font size="5" color="gray">六、火花学院小程序上线，火花微课为首个上线小程序</font>
+
+![avatar](images/2018WeChat2.png)
+
+# <font size="5" color="gray">七、品牌形象全面升级</font>
 
 火花学院LOGO全新升级，新LOGO造型圆润柔和，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等全面更新。
 
@@ -63,13 +73,13 @@ sidebar:
 
 ![avatar](images/2018logo.png)
 
+## <font size="4" >火花学院对外宣传文档模版</font>
+
+![avatar](images/2018templates2.png)
+
 ## <font size="4" >火花学院充值卡</font>
 
 ![avatar](images/2018card.png)
-
-# <font size="5" color="gray">六、微信公众号改版，新增AR体验功能</font>
-
-# <font size="5" color="gray">七、火花学院小程序上线，火花微课为首个上线小程序</font>
 
 # <font size="5" color="gray">八、微信公众号关注总人数1001人，发表文章61篇</font>
 
