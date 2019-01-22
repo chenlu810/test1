@@ -39,11 +39,17 @@ sidebar:
 
 # <font size="5" color="gray">二、客户端新增微课录制功能，新增多套主题课件模板</font>
 
+智能PC微课录制
+
 ![avatar](images/2018mc1.jpg)
+
+火花课件模板
 
 ![avatar](images/2018templates.png)
 
 # <font size="5" color="gray">三、跨9省支持公共课98次，获特等奖及一等奖共22次</font>
+
+2018年火花学院公开课获奖统计
 
 | 获奖等级 |  特等奖 | 一等奖 | 二等奖	| 三等奖| 观摩课	| 结果未出	|	
 |----------|:------:|:------:|:------:|:------:|:------:|:------:|
@@ -51,17 +57,27 @@ sidebar:
 
 # <font size="5" color="gray">四、官网改版上线，新增专题版块及相关推荐内容</font>
 
+火花学院官网首页
+
 ![avatar](images/2018website.png)
 
+火花学院官网专题模块
+
 ![avatar](images/2018topic1.png)
+
+火花学院数字教学参考书简介及修改推介
 
 ![avatar](images/2018content.png)
 
 # <font size="5" color="gray">五、微信公众号改版，新增AR体验功能及课例版块</font>
 
+火花学院公众号新版块
+
 ![avatar](images/2018WeChat1.png)
 
 # <font size="5" color="gray">六、火花学院小程序上线，火花微课为首个上线小程序</font>
+
+火花微课小程序
 
 ![avatar](images/2018WeChat2.png)
 
@@ -83,7 +99,7 @@ sidebar:
 
 # <font size="5" color="gray">八、微信公众号关注总人数1001人，发表文章61篇</font>
 
-火花学院点击量前三推文
+微信前十推文
 
 | 阅读量排名 |  推文  | 
 |-------------|:------:|
