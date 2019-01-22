@@ -15,7 +15,7 @@ sidebar:
 
 **<font size="4" color="orange"> 1. 上架五本数字教学参考书电子版；</font>**
 
-**<font size="4" color="orange"> 2. 八个学科共新增素材4750个，开发量为2017年的3倍；</font>**
+**<font size="4" color="orange"> 2. 八个学科共开发素材4750个，开发量为2017年的3倍；</font>**
 
 **<font size="4" color="orange"> 3. PC端实现微课录制功能，火花学院微课中心建立；</font>**
 
@@ -23,13 +23,13 @@ sidebar:
 
 **<font size="4" color="orange"> 5. 官网改版上线，新增专题版块及相关推荐内容；</font>**
 
-**<font size="4" color="orange"> 6. 支持9省公共课98次，获特等奖及一等奖22次；</font>**
+**<font size="4" color="orange"> 6. 跨9省支持公共课98次，获特等奖及一等奖共22次；</font>**
 
 **<font size="4" color="orange"> 7. 微信公众号改版，新增AR体验功能；</font>**
 
 **<font size="4" color="orange"> 8. 火花学院小程序上线，火花微课为首个上线小程序；</font>**
 
-**<font size="4" color="orange"> 9. 微信公众号关注总人数1001人，发表文章61篇，总点击量；</font>**
+**<font size="4" color="orange"> 9. 微信公众号关注总人数1001人，发表文章61篇；</font>**
 
 **<font size="4" color="orange">10. 品牌形象升级。</font>**
 
@@ -81,11 +81,11 @@ sidebar:
 
 # <font size="5" color="gray">八、火花学院小程序上线，火花微课为首个上线小程序</font>
 
-# <font size="5" color="gray">九、微信公众号关注总人数1001人，发表文章61篇，总点击量</font>
+# <font size="5" color="gray">九、微信公众号关注总人数1001人，发表文章61篇</font>
 
-# <font size="5" color="gray">十、品牌形象升级</font>
+# <font size="5" color="gray">十、品牌形象全面升级</font>
 
-火花学院LOGO全新升级，新LOGO造型圆润柔和更有亲和力，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等全面更新。
+火花学院LOGO全新升级，新LOGO造型圆润柔和，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等全面更新。
 
 ## <font size="4" >火花学院LOGO</font>
 
