@@ -65,7 +65,7 @@ sidebar:
 
 ![avatar](images/2018topic1.png)
 
-火花学院数字教学参考书简介及修改推介
+火花学院数字教学参考书简介及资源推介
 
 ![avatar](images/2018content.png)
 
