@@ -79,21 +79,21 @@ sidebar:
 
 火花微课小程序
 
-![avatar](images/2018WeChat2.png)
+![avatar](images/20181227.png)
 
 # <font size="5" color="gray">七、品牌形象全面升级</font>
 
 火花学院LOGO全新升级，新LOGO造型圆润柔和，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等全面更新。
 
-## <font size="4" >火花学院LOGO</font>
+火花学院LOGO
 
 ![avatar](images/2018logo.png)
 
-## <font size="4" >火花学院对外宣传文档模版</font>
+火花学院对外宣传文档模版
 
 ![avatar](images/2018templates2.png)
 
-## <font size="4" >火花学院充值卡</font>
+火花学院充值卡
 
 ![avatar](images/2018card.png)
 
