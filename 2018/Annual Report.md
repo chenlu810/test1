@@ -78,7 +78,7 @@ sidebar:
 
 ![avatar](images/2018card.png)
 
-# <font size="5" color="gray">八、公众号推文61篇</font>
+# <font size="5" color="gray">八、微信推文61篇</font>
 
 2018年前十推文
 
