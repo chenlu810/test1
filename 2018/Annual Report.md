@@ -13,25 +13,25 @@ sidebar:
 
 <bro/><bro/>
 
-**<font size="4" color="orange">1. 上架五本数字教学参考书电子版；</font>**
+**<font size="4" color="orange"> 1. 上架五本数字教学参考书电子版；</font>**
 
-**<font size="4" color="orange">2. 八个学科共新增素材4750个，开发量为2017年的3倍；</font>**
+**<font size="4" color="orange"> 2. 八个学科共新增素材4750个，开发量为2017年的3倍；</font>**
 
-**<font size="4" color="orange">3. PC端实现微课录制功能，火花学院微课中心建立；</font>**
+**<font size="4" color="orange"> 3. PC端实现微课录制功能，火花学院微课中心建立；</font>**
 
-**<font size="4" color="orange">4. 编辑器新增多套主题课件模板，方便用户制作火花课件；</font>**
+**<font size="4" color="orange"> 4. 编辑器新增多套主题课件模板，方便用户制作火花课件；</font>**
 
-**<font size="4" color="orange">5. 官网改版上线，新增专题版块及相关推荐内容；</font>**
+**<font size="4" color="orange"> 5. 官网改版上线，新增专题版块及相关推荐内容；</font>**
 
-**<font size="4" color="orange">6. 支持9省公共课98次，获特等奖及一等奖22次；</font>**
+**<font size="4" color="orange"> 6. 支持9省公共课98次，获特等奖及一等奖22次；</font>**
 
-**<font size="4" color="orange">7. 微信公众号改版，新增AR体验功能；</font>**
+**<font size="4" color="orange"> 7. 微信公众号改版，新增AR体验功能；</font>**
 
-**<font size="4" color="orange">8. 火花学院小程序上线，火花微课为首个上线小程序；</font>**
+**<font size="4" color="orange"> 8. 火花学院小程序上线，火花微课为首个上线小程序；</font>**
 
-**<font size="4" color="orange">9. 支持9省公共课98次，获特等奖及一等奖22次；</font>**
+**<font size="4" color="orange"> 9. 微信公众号关注总人数1001人，发表文章61篇，总点击量；</font>**
 
-**<font size="4" color="orange">9. 品牌形象升级。</font>**
+**<font size="4" color="orange">10. 品牌形象升级。</font>**
 
 
 # <font size="5" color="gray">一、上架五本数字教学参考书电子版</font>
@@ -53,6 +53,19 @@ sidebar:
 | 小学数学	| 467 |
 | 小学科学	| 404 |
 | 合计：| 4750 |
+
+| 学段 |学科|  素材数量  | 
+|-------------|:------:|:------:|
+|高中	|化学	|1573|
+|高中	|数学	|699|
+|高中	|生物	|795|
+|高中	|地理	|294|
+|高中	|物理	|100|
+|初中	|物理	|418|
+|小学	|数学	|467|
+|小学	|科学	|404|
+|合计：	|	|4750|
+
 
 # <font size="5" color="gray">三、PC端实现微课录制功能，火花学院微课中心建立</font>
 
