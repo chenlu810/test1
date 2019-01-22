@@ -17,7 +17,7 @@ sidebar:
 
 **<font size="4" color="orange">2.跨9省支持公开课98次，获特等奖及一等奖共22次； </font>**
 
-**<font size="4" color="orange">3.官网改版，(huohuaschool)[www.huohuaschool.com]域名启用，新增专题版块及相关内容推荐；</font>**
+**<font size="4" color="orange">3.官网改版，[www.huohuaschool.com](www.huohuaschool.com)域名启用，新增专题版块及相关内容推荐；</font>**
 
 **<font size="4" color="orange">4.客户端新增多套主题课件模板，新增微课录制功能，火花学院微课中心建立；</font>**
 
