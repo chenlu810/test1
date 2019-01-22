@@ -47,7 +47,7 @@ sidebar:
 
 ![avatar](images/2018templates.png)
 
-# <font size="5" color="gray">三、跨9省支持公共课98次，获特等奖及一等奖共22次</font>
+# <font size="5" color="gray">三、跨9省支持公开课98次，获特等奖及一等奖共22次</font>
 
 2018年火花学院公开课获奖统计
 
@@ -90,6 +90,10 @@ sidebar:
 ![avatar](images/2018logo.png)
 
 火花学院对外宣传文档模版
+
+[Word下载](images/火花学院word模板.docx)
+[PPT4:3下载](images/火花学院ppt模版--4_3.pptx)
+[PPT16:9下载](images/火花学院ppt模版-16_9.pptx)
 
 ![avatar](images/2018templates2.png)
 
