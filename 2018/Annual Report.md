@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-<bro/><bro/>
+<bro/><bro/><bro/><bro/>
 
 ![avatar](images/2018total.png)
 
@@ -20,9 +20,9 @@ sidebar:
 
 2018年上架五本数字教学参考书（电子版），新增小初高全学段八个学科十二个知识模块素材共4750个
 
-![avatar](images/2018content0.png)
-
 ![avatar](images/2018book.png)
+
+![avatar](images/2018content0.png)
 
 # <font size="5" color="gray">二、公开课获奖增多</font>
 
@@ -39,8 +39,6 @@ sidebar:
 2018年火花学院客户端适配移动端、PC端所有主流平台系统；新增多套主题课件模板，新增微课录制功能，用户内容生产更便利
 
 ![avatar](images/2018templates.png)
-
-![avatar](images/2018mc1.jpg)
 
 # <font size="5" color="gray">四、官网顶级域名启用</font>
 
