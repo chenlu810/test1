@@ -21,7 +21,7 @@ sidebar:
 
 2018年上架五本数字教学参考书（电子版）
 
-![avatar](images/2018books.png)
+![avatar](images/2018book.png)
 
 2018年新增小初高全学段8个学科12个知识模块素材共4750个
 
