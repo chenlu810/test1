@@ -19,13 +19,13 @@ sidebar:
 
 # <font size="5" color="gray">一、可视化内容扩充</font>
 
-2018年上架五本数字教学参考书（电子版）
+2018年上架五本数字教学参考书（电子版）。
 
 ![avatar](images/2018book.png)
 
-2018年新增小初高全学段8个学科12个知识模块素材共4750个，课件159个，微课36个
+2018年新增小初高全学段8个学科12个知识模块素材共4750个，课件159个，微课36个。
 
-![avatar](images/2018content0.png)
+![avatar](images/2018content3.png)
 
 # <font size="5" color="gray">二、公开课获奖增多</font>
 
@@ -35,7 +35,7 @@ sidebar:
 
 火花学院与蚌埠二中生物老师陶洁敏合作的《呼吸作用和光合作用》获得比赛全国最高奖，与蚌埠二中地理老师汪琳琳合作的《大气受热过程及温室效应的探究》获得国家级银奖（地理学科最高奖），与蚌埠二中化学老师蒋蓓蓓合作的《非金属氢化物的结构探究》。
 
-![avatar](images/2018jbb.png)
+![avatar](images/2018e1.png)
 
 # <font size="5" color="gray">三、客户端功能完善</font>
 
@@ -53,13 +53,13 @@ sidebar:
 
 # <font size="5" color="gray">五、公众号新增AR体验</font>
 
-2018年微信公众号新增AR体验及课例版块
+2018年微信公众号新增AR体验及课例版块，未安装火花APP的情况下也可体验火花内容产品。
 
 ![avatar](images/2018WeChat1.png)
 
 # <font size="5" color="gray">六、微课小程序上线</font>
 
-2018年火花学院首个微信小程序（火花微课）上线
+2018年火花学院首个微信小程序（火花微课）上线。
 
 ![avatar](images/2018xcx.png)
 
@@ -67,23 +67,23 @@ sidebar:
 
 2018年火花学院LOGO升级，新LOGO造型圆润柔和，视觉上更舒适、友好。火花学院网站各端UI加载动效、对外宣传文档模版（火花课件、word、ppt），微信公众号视觉规范、火花学院充值卡版面设计等同步更新。
 
-火花学院新LOGO
+火花学院新LOGO：
 
 ![avatar](images/2018logo.png)
 
-火花学院对外宣传文档模版
+火花学院对外宣传文档模版：
 
 [Word下载](images/火花学院word模板.docx) · [PPT4:3下载](images/火花学院ppt模版--4_3.pptx) · [PPT16:9下载](images/火花学院ppt模版-16_9.pptx)
 
 ![avatar](images/2018templates2.png)
 
-火花学院充值卡
+火花学院充值卡：
 
 ![avatar](images/2018card.png)
 
 # <font size="5" color="gray">八、微信推文61篇</font>
 
-2018年前十推文
+2018年前十推文：
 
 | 阅读量排名 |  推文  | 
 |:------:|:---------------|
