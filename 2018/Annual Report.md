@@ -13,7 +13,7 @@ sidebar:
 
 <bro/><bro/><bro/><bro/>
 
-![avatar](images/2018total.png)
+![avatar](images/2018total1.png)
 
 <bro/><bro/>
 
