@@ -83,8 +83,6 @@ sidebar:
 
 # <font size="5" color="gray">八、微信推文61篇</font>
 
-2018年前十推文如下：
-
 | 阅读量排名 |  推文及链接  | 
 |:------:|:---------------|
 | 1	|[不好意思，我们又拿第一名了！这回是物理！↙](https://mp.weixin.qq.com/s/mxKigvQGgJf-5zuH2nBmlQ)|
