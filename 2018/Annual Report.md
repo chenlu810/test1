@@ -73,7 +73,7 @@ sidebar:
 
 火花学院对外宣传文档模版：
 
-[Word下载](images/火花学院word模板.docx) · [PPT4:3下载](images/火花学院ppt模版--4_3.pptx) · [PPT16:9下载](images/火花学院ppt模版-16_9.pptx)
+[Word下载](images/火花学院word模板.docx) · [PPT4:3下载](images/火花学院ppt模版--4_3.pptx) · [PPT16:9下载](images/火花学院ppt模版-16_9.pptx) · [火花课件下载](images/火花学院模板.huohua)
 
 ![avatar](images/2018templates2.png)
 
