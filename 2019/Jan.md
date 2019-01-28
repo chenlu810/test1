@@ -1,9 +1,6 @@
 ---
 layout: article
 title: 1月工作成果
-permalink: /2019/---
-layout: article
-title: 1月工作成果
 permalink: /2019/Jan
 key: 2019-Jan
 aside:
@@ -11,6 +8,8 @@ aside:
 sidebar:
   nav: 2019
 ---
+
+
 
 摘要：
 
