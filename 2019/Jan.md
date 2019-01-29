@@ -15,11 +15,13 @@ sidebar:
 
 <bro/><bro/>
 
-**<font size="4" color="red">1. 桌面端及安卓新版本发布，新增习题播放器；</font>**
+**<font size="4" color="red">1. huohua-prod.ustcnmi.org停止服务，PC官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能；</font>**
 
-**<font size="4" color="red">2. 完成5个学科共48个精品素材的开发及上线；</font>**
+**<font size="4" color="red">2. 桌面端v2.8.1版本及安卓v2.4.1版本发布；</font>**
 
-**<font size="4" color="red">3. 支撑17堂公开课，获得省级一等奖3次、二等奖1次；</font>**
+**<font size="4" color="red">3. 完成5个学科共48个精品素材的开发及上线；</font>**
+
+**<font size="4" color="red">4. 支撑5堂公开课，结果未公布；</font>**
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -33,9 +35,9 @@ sidebar:
 
 部分素材展示
 
-![avatar](images/20181111.png)
+![avatar](images/20190111.png)
 
-![avatar](images/20181112.png)
+![avatar](images/20190112.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
@@ -43,17 +45,21 @@ sidebar:
 
 （1）v2.8.1版本发布，新增习题播放器
 
-![avatar](images/20190121.jpg)
-
-（2）软件基础架构进行调整，将重要服务功能进行插件化管理调整完成后所有重要组件都是较为独立的，以后开发起来也更为方便；
+（2）软件基础架构调整，重要服务功能独立开发，为后期单功能升级提供便利。
 
 ## <font size="4" >2.2 移动端</font>
   
-（1）安卓版本v2.4.1版本发布，新增了习题播放器；
+（1）安卓v2.4.1发布，新增了习题播放器；
 
-![avatar](images/20190122.jpg)
+（2）iOS版本软件基本功能实现，预计2月提交苹果App Store进行第一次审核。
 
-（2）iOS版本软件基本功能实现，预计2月份提交苹果App Store进行第一次审核；
+## <font size="4" >2.3 PC官网</font>
+
+（1）原域名huohua-prod.ustcnmi.org停止服务;
+
+（2）PC官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能。
+
+![avatar](images/20190123.png)
 
 # <font size="5" color="gray">三、运营支撑</font>
 
