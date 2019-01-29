@@ -81,7 +81,7 @@ sidebar:
 
 获奖详情如下：
 
-![avatar](images/20190132.png)
+![avatar](images/20190130.png)
 
 （2）常规支撑公开课5次，结果未公布，详情如下：
 
