@@ -13,7 +13,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190100.png)
+![avatar](images/20190101.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -39,7 +39,7 @@ sidebar:
 
 （1）v2.8.1版本发布，新增习题播放器；
 
-（2）软件基础架构调整，重要服务功能独立开发，为后期单功能升级提供便利。
+（2）软件基础架构调整，重要服务功能以组件形式开发，为后期单功能升级提供便利。
 
 ## <font size="4" >2.2 移动端更新</font>
   
@@ -60,6 +60,10 @@ sidebar:
 教科书详情页：
 
 ![avatar](images/20190126.png)
+
+搜索页：
+
+![avatar](images/20190127.png)
 
 客户端下载页：
 
