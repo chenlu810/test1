@@ -19,7 +19,7 @@ sidebar:
 
 **<font size="4" color="red">2. 桌面端v2.8.1版本及安卓v2.4.1版本发布；</font>**
 
-**<font size="4" color="red">3. 完成5个学科共48个精品素材的开发及上线；</font>**
+**<font size="4" color="red">3. 完成5个学科共48个精品素材的开发及上线。</font>**
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -41,17 +41,17 @@ sidebar:
 
 ## <font size="4" >2.1 桌面端</font>
 
-（1）v2.8.1版本发布，新增习题播放器
+（1）v2.8.1版本发布，新增习题播放器。
 
 （2）软件基础架构调整，重要服务功能独立开发，为后期单功能升级提供便利。
 
 ## <font size="4" >2.2 移动端</font>
   
-（1）安卓v2.4.1发布，新增了习题播放器；
+（1）安卓v2.4.1发布，新增了习题播放器。
 
 （2）iOS版本软件基本功能实现，预计2月提交苹果App Store进行第一次审核。
 
-## <font size="4" >2.3 PC官网</font>
+## <font size="4" >2.3 官网</font>
 
 （1）PC官网原域名huohua-prod.ustcnmi.org停止服务;新官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能。
 
@@ -61,11 +61,15 @@ sidebar:
 
 ![avatar](images/20190124.png)
 
+（2）移动端官网[m.huohuaschool.com](m.huohuaschool.com)新增“关于我们”版块，用户可从移动端了解公司背景及产品信息。
+
+![avatar](images/20190125.png)
+
 # <font size="5" color="gray">三、运营支撑</font>
 
-## <font size="4" >3.1 支撑公开课17次，获得省级一等奖3次、二等奖1次</font>
+## <font size="4" >3.1 支撑公开课5次，结果未公布</font>
 
-![avatar](images/20181131.png)
+
 
 ## <font size="4" >3.2 品牌运营</font>
 
