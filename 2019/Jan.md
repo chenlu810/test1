@@ -11,15 +11,9 @@ sidebar:
 
 
 
-摘要：
-
 <bro/><bro/>
 
-**<font size="4" color="red">1. 旧域名huohua-prod.ustcnmi.org停用，新官网huohuaschool.com2.0上线，新增“数字教科书”、“客户端”板块及搜索功能；</font>**
-
-**<font size="4" color="red">2. 桌面端v2.8.1版本及安卓v2.4.1版本发布；</font>**
-
-**<font size="4" color="red">3. 完成5个学科共48个精品素材的开发及上线。</font>**
+![avatar](images/20190100.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
