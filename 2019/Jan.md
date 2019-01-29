@@ -13,7 +13,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190101.png)
+![avatar](images/20190100.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -63,7 +63,7 @@ sidebar:
 
 搜索页：
 
-![avatar](images/20190127.png)
+![avatar](images/20190128.png)
 
 客户端下载页：
 
