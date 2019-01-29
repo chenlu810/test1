@@ -65,7 +65,7 @@ sidebar:
 
 ![avatar](images/20190124.png)
 
-（2）移动端官网[m.huohuaschool.com](m.huohuaschool.com)新增“关于我们”版块，用户可从移动端了解公司背景及产品信息。
+（2）移动端官网[m.huohuaschool.com](m.huohuaschool.com)新增“关于我们”版块，用户可了解公司背景及产品信息。
 
 ![avatar](images/20190125.png)
 
