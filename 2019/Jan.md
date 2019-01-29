@@ -47,7 +47,7 @@ sidebar:
 
 （2）iOS版本软件基本功能实现，预计2月提交苹果App Store进行第一次审核。
 
-## <font size="4" >2.3 官网</font>
+## <font size="4" >2.3 官网2.0</font>
 
 （1）PC官网原域名huohua-prod.ustcnmi.org停止服务;新官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能。
 
