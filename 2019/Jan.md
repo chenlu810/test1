@@ -15,7 +15,7 @@ sidebar:
 
 <bro/><bro/>
 
-**<font size="4" color="red">1. huohua-prod.ustcnmi.org停止服务，PC官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能；</font>**
+**<font size="4" color="red">1. huohua-prod.ustcnmi.org停止服务，PC官网huohuaschool.com2.0上线，新增“数字教科书”、“客户端”板块和搜索功能；</font>**
 
 **<font size="4" color="red">2. 桌面端v2.8.1版本及安卓v2.4.1版本发布；</font>**
 
