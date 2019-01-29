@@ -55,11 +55,13 @@ sidebar:
 
 ## <font size="4" >2.3 PC官网</font>
 
-（1）原域名huohua-prod.ustcnmi.org停止服务;
+（1）PC官网原域名huohua-prod.ustcnmi.org停止服务;新官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能。
 
-（2）PC官网[www.huohuaschool.com](www.huohuaschool.com) 2.0上线，新增“数字教科书”、“客户端”板块和搜索功能。
+“数字教科书”板块上架6本数字教科书，教科书详情页提供预览图片及简介文字，引导用户下载客户端完整电子版教科书，同时提供纸质书购买链接。详情页还提供与该教科书同一知识模块相关的可视化素材、课件、微课列表，拓展用户在不同教学场景下的应用。
 
 ![avatar](images/20190123.png)
+
+![avatar](images/20190124.png)
 
 # <font size="5" color="gray">三、运营支撑</font>
 
