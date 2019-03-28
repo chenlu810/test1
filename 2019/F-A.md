@@ -13,7 +13,7 @@ sidebar:
 
 <bro/><bro/>
 
-![Image](images/20190301.png){:.circle.shadow}
+![Image](images/20190300.png){:.circle.shadow}
 《立体几何》出版
 
 # <font size="5" color="gray">一、内容制作</font>
