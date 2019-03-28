@@ -9,16 +9,15 @@ sidebar:
   nav: 2018
 ---
 
-
-
 <bro/><bro/>
-
-![Image](images/20190300.png){:.circle.shadow} ![Image](images/20190300.png){:.circle.shadow}
-《立体几何》出版
 
 # <font size="5" color="gray">一、内容制作</font>
 
-## <font size="4" >1.1 《立体几何》出版</font>
+## <font size="4" >1.1 《立体几何》纸质版出版</font>
+
+截至目前火花学院纸质版数字教学参考书已出版2本：《结构化学》、《立体几何》；
+
+电子版数字教学参考书6本：《结构化学》、《有机化学》、《立体几何》、《声光热能》、《遗传与进化》、《自然地理基础》。
 
 ![avatar](images/20190301.png)
 
