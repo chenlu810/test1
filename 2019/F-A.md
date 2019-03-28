@@ -118,7 +118,7 @@ sidebar:
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[[学不好数理化是因为脑子笨？或许只是因为……](https://mp.weixin.qq.com/s/WL6vqBW2r5MzBz2uWZyqVA)|	7661|
+[学不好数理化是因为脑子笨？或许只是因为……](https://mp.weixin.qq.com/s/WL6vqBW2r5MzBz2uWZyqVA)|	7661|
 |[女孩子天生学不好数学？](https://mp.weixin.qq.com/s/FYKOmpTI0_S3KHt7N0vdlw)|	697|
 |[带地球去流浪，从这些高中物理知识开始](https://mp.weixin.qq.com/s/z3F4Pc7qpVt0EhGf5BO4kA)|	254|
 |夸夸群大火，孩子每天夸就会进步？|	224|
