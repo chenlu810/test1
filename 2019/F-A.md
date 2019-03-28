@@ -17,7 +17,11 @@ sidebar:
 
 # <font size="5" color="gray">一、内容制作</font>
 
-## <font size="4" >1.1 新增素材</font>
+## <font size="4" >1.1 《立体几何》出版</font>
+
+![avatar](images/20190301.png)
+
+## <font size="4" >1.2 新增素材</font>
 
 2、3月共新增213个素材，截至3月底，火花学院共有素材2709个。
 
