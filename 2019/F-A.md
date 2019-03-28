@@ -65,9 +65,18 @@ v2.9.0版本发布
 
 （1）PC官网
 
-- 增加帮助中心板块，
-- 增加用户充值中心
-官网增加用户火花币充值功能，用户可通过官网实现火花币支付宝、微信扫码充值以及充值卡充值
+- 增加[“帮助中心”](https://prod.huohuaschool.com/help/index.html)，为用户提供主要功能操作指南；
+
+![avatar](images/20190320.png)
+
+![avatar](images/20190321.png)
+
+- 增加用户[“充值中心”](https://www.huohuaschool.com/user/recharge)，用户可通过官网实现支付宝、微信及充值卡充值
+
+![avatar](images/20190322.png)
+
+![avatar](images/20190323.png)
+
 - 增加消息通知功能
 官网增加消息通知功能，用户可通过官网查看系统通知消息及用户分享消息
 - 优化移动端下载
