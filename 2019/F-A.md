@@ -29,9 +29,13 @@ sidebar:
 
 部分素材展示
 
-![avatar](images/20190111.png)
+![avatar](images/20190311.png)
 
-![avatar](images/20190112.png)
+![avatar](images/20190312.png)
+
+![avatar](images/20190313.png)
+
+![avatar](images/20190314.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
@@ -61,39 +65,40 @@ v2.9.0版本发布
 
 （2）iOS软件完成开发，目前正在上架审核中，预计4月份上线。
 
-## <font size="4" >2.3 官网2.0</font>
+## <font size="4" >2.3 PC官网更新</font>
 
-（1）PC官网
-
-- 增加[“帮助中心”](https://prod.huohuaschool.com/help/index.html)，为用户提供主要功能操作指南；
+（1） 增加[“帮助中心”](https://prod.huohuaschool.com/help/index.html)，为用户提供主要功能操作指南；
 
 ![avatar](images/20190320.png)
 
 ![avatar](images/20190321.png)
 
-- 增加用户[“充值中心”](https://www.huohuaschool.com/user/recharge)，用户可通过官网实现支付宝、微信及充值卡充值
+（2）增加“充值中心”和“消息通知”，用户登录后可实现与客户端相同的充值和消息查看功能；
 
-![avatar](images/20190322.png)
+![avatar](images/20190324.png)
 
 ![avatar](images/20190323.png)
 
-- 增加消息通知功能
-官网增加消息通知功能，用户可通过官网查看系统通知消息及用户分享消息
-- 优化移动端下载
-官网客户端板块下的移动端下载页面，点击ANDROID下载，弹出二维码，用户可通过手机扫码下载移动端APP
-- 优化官网在IE浏览器上的适配
-优化官网在IE浏览器上的适配，支持IEEDGE、IE10浏览器访问，同时增加IE10以下浏览器用户提示，引导用户下载CHROME浏览器访问官网
+（3）Android版移动端新增二维码下载功能；
 
+![avatar](images/20190325.png)
 
-（2）移动端官网[m.huohuaschool.com](m.huohuaschool.com)新增“关于我们”版块，用户可了解公司背景及产品信息。
+（4）优化官网在IE浏览器上的适配，支持IEEDGE、IE10浏览器访问，同时增加IE10以下浏览器用户提示，引导用户下载CHROME浏览器访问官网
 
-![avatar](images/20190125.png)
+## <font size="4" >2.4 PC运营管理系统优化</font>
+
+（1）素材预览呈现方式多样化，图片、视频等皆可；
+
+（2）按学段-学科-知识模块的方式对机构进行授权，业务逻辑更贴合实际教学需求；
+
+（3）微课由事前审查机制调整为事后审查机制，用户录制的微课在审查前可随意分享，如火花运营人员认为此微课不合格，可进行屏蔽，屏蔽后用户无法继续分享，此前已分享的微课，系统将提示用户“微课已删除”。
+
 
 # <font size="5" color="gray">三、运营支撑</font>
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-（1）在合肥市第三届高中智慧课堂优质课（录像课）评比中，火花学院合作的23个参赛作品全部获奖，数学、地理、物理、生物四科获一等奖6个。
+（1）
 
 获奖详情如下：
 
