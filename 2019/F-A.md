@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190300.png)
+![avatar](images/20190310.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -25,7 +25,7 @@ sidebar:
 
 ## <font size="4" >1.2 新增素材</font>
 
-2、3月新增素材213个，截至3月底，火花学院共有素材2709个。
+2、3月新增新增素材113个、课件8个、微课36个。
 
 ![avatar](images/20190309.png)
 
