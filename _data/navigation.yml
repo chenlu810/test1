@@ -33,7 +33,7 @@ header:
     children:
       - title:  1月
         url:    /2019/Jan
-      - title:  2、3月
+      - title:  2~3月
         url:    /2019/F-A
 
 layouts:
