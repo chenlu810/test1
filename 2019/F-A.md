@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 2、3月工作成果
+title: 2~3月工作成果
 permalink: /2019/F-A
 key: 2019-F-A
 aside:
