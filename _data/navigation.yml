@@ -40,7 +40,7 @@ project:
   - title:      项目公示
     children:
       - title:  2019年
-        url:    /2018/2019
+        url:    /project/2019
 
 layouts:
   - title: Layouts
