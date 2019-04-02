@@ -11,11 +11,19 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190311.png)
+![avatar](images/20190390.png)
 
-# <font size="5" color="gray">一、内容制作</font>
+# <font size="5" color="gray">一、项目制管理试行</font>
 
-## <font size="4" >1.1 《立体几何》纸质版出版</font>
+习悦自2019年3月1号~2018年12月31号试行项目制管理，原有任务分发机制将转为承包验收机制，项目负责人为各项目经理，旨在激发团队主观能动性和创造性，搭建开放性、激励性创新平台，实现员工与公司共同发展。
+
+截至目前2019年评审通过项目如下表，详细信息及项目推进情况见“”。
+
+![avatar](images/20190391.png)
+
+# <font size="5" color="gray">二、内容制作</font>
+
+## <font size="4" >2.1 《立体几何》纸质版出版</font>
 
 截至目前火花学院纸质版数字教学参考书出版2本：《结构化学》、《立体几何》；
 
@@ -23,7 +31,7 @@ sidebar:
 
 ![avatar](images/20190301.png)
 
-## <font size="4" >1.2 新增素材</font>
+## <font size="4" >2.2 新增素材</font>
 
 2~3月新增新增素材113个、课件8个、微课36个。
 
@@ -39,9 +47,9 @@ sidebar:
 
 ![avatar](images/20190314.png)
 
-# <font size="5" color="gray">二、软件开发</font>
+# <font size="5" color="gray">三、软件开发</font>
 
-## <font size="4" >2.1 桌面端更新</font>
+## <font size="4" >3.1 桌面端更新</font>
 
 ### <font size="3" >v2.9.0版本发布</font>
 
@@ -64,7 +72,7 @@ sidebar:
 - 新增用户日志，便于开发追踪整改；
 - 编辑器组件化架构调整完成，开发效率、迭代频率提高。
 
-## <font size="4" >2.2 移动端更新</font>
+## <font size="4" >3.2 移动端更新</font>
 
 ### <font size="3" >安卓v2.4.2版本发布</font>
   
@@ -74,7 +82,7 @@ sidebar:
 
 ### <font size="3" >iOS版本预计4月上线</font>
 
-## <font size="4" >2.3 PC官网更新</font>
+## <font size="4" >3.3 PC官网更新</font>
 
 ### <font size="3" >新增“帮助中心”</font>
 
@@ -98,7 +106,7 @@ sidebar:
 
 优化官网在IE浏览器上的适配，支持IEEDGE、IE10浏览器访问，同时增加IE10以下浏览器用户提示，引导用户下载CHROME浏览器访问官网。
 
-## <font size="4" >2.4 运营管理系统优化</font>
+## <font size="4" >3.4 运营管理系统优化</font>
 
 （1）素材预览呈现方式多样化，图片、视频皆可；
 
@@ -106,15 +114,15 @@ sidebar:
 
 （3）微课由事前审查机制调整为事后审查机制，用户录制的微课在审查前可随意分享，如火花运营人员认为此微课不合格，可进行屏蔽，屏蔽后用户无法继续分享，此前已分享的微课，系统将提示用户“微课已删除”。
 
-# <font size="5" color="gray">三、运营支撑</font>
+# <font size="5" color="gray">四、运营支撑</font>
 
-## <font size="4" >3.1 公开课支撑</font>
+## <font size="4" >4.1 公开课支撑</font>
 
 常规公开课支撑5次：
 
 ![avatar](images/20190331.png)
 
-## <font size="4" >3.2 品牌运营</font>
+## <font size="4" >4.2 品牌运营</font>
 
 目前公众号关注总人数1464人，其中2~3月新增432人，发表文章10篇，阅读量9556次，转发量634次。
 
