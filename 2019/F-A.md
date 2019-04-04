@@ -34,7 +34,7 @@ sidebar:
 
 2~3月新增新增素材132个、课件8个、微课36个。
 
-![avatar](images/20190370.png)
+![avatar](images/20190366.png)
 
 部分素材展示
 
