@@ -11,14 +11,14 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190399.png)
+![avatar](images/20190388.png)
 
 # <font size="5" color="gray">一、项目制启动</font>
 
 产品研发设计中心启动项目制管理，原有任务分发机制转为承包验收机制，成立相应项目机构、颁发暂行管理办法，旨在激发团队主观能动性和创造性，搭建开放性、激励性创新平台，形成良性竞争格局，实现员工与公司的共同发展。
 2019年已立项目18个，同时组建服务支持项目组承接项目团队输出的外包任务。详情请点击[“项目公示”](https://xiyue-team.github.io/doc_monthlyreport/project/2019)。
 
-![avatar](images/20190398.png)
+![avatar](images/20190389.png)
 
 # <font size="5" color="gray">二、内容制作</font>
 
