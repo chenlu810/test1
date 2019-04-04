@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190388.png)
+![avatar](images/20190377.png)
 
 # <font size="5" color="gray">一、项目制启动</font>
 
