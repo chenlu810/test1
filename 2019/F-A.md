@@ -30,11 +30,11 @@ sidebar:
 
 ![avatar](images/20190301.png)
 
-## <font size="4" >2.2 新增素材</font>
+## <font size="4" >2.2 新增内容</font>
 
-2~3月新增新增素材113个、课件8个、微课36个。
+2~3月新增新增素材132个、课件8个、微课36个。
 
-![avatar](images/20190309.png)
+![avatar](images/20190386.png)
 
 部分素材展示
 
