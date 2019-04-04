@@ -38,8 +38,6 @@ sidebar:
 
 部分素材展示
 
-![avatar](images/20190311.png)
-
 ![avatar](images/20190312.png)
 
 ![avatar](images/20190313.png)
