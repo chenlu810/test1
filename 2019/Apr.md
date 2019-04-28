@@ -39,8 +39,6 @@ sidebar:
 
 ![avatar](images/2019040105.png)
 
-![avatar](images/2019040106.png)
-
 # <font size="5" color="gray">二、软件开发</font>
 
 ## <font size="4" >2.1 iOS移动端上架</font>
