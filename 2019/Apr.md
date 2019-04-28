@@ -31,6 +31,8 @@ sidebar:
 
 ![avatar](images/2019040103.png)
 
+其中高中物理及初中化学分别下架素材5个、3个。
+
 部分素材展示
 
 ![avatar](images/2019040104.png)
