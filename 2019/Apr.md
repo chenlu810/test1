@@ -45,7 +45,7 @@ sidebar:
 
 ## <font size="4" >2.1 iOS移动端上架</font>
 
-iOS v1.0.0版本正式上架苹果应用商店
+iOS v1.0.0版本正式上架苹果应用商店。
 
 ![avatar](images/2019040201.png)
 
