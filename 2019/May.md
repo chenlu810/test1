@@ -63,7 +63,7 @@ v2.9.0版本发布
 
 常规公开课支撑19次。
 
-![avatar](images/2019050112.png)
+![avatar](images/2019050115.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
