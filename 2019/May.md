@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190501.png)
+![avatar](images/20190500.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -39,11 +39,11 @@ sidebar:
 
 ## <font size="4" >2.1 iOS移动端更新</font>
 
- v1.0.2版本上架苹果应用商店
+v1.0.2版本上架苹果应用商店
 
 ## <font size="4" >2.2 Mac版本更新</font>
 
-（1）优化功能
+v2.9.0版本发布
 
 - 支持不登录启动软件，可直接播放本地课件，方便顾客使用； 
 
