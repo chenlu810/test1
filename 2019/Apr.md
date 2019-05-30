@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190400.png)
+![avatar](images/201904000.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -27,7 +27,7 @@ sidebar:
 
 ## <font size="4" >1.2 新增内容</font>
 
-4月新增素材61个。因知识模块调整，高中物理及初中化学分别下架素材5个、3个。
+4月新增素材69个。因知识模块调整，高中物理及初中化学分别下架素材5个、3个。
 
 ![avatar](images/2019040103.png)
 
