@@ -23,7 +23,7 @@ sidebar:
 
 5月新增素材100个，因素材重复下架素材4个。
 
-![avatar](images/20190602.png)
+![avatar](images/20190608.png)
 
 部分素材展示
 
