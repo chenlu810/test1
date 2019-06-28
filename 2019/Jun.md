@@ -13,15 +13,21 @@ sidebar:
 
 ![avatar](images/20190699.png)
 
-# <font size="5" color="gray">一、内容制作</font>
+# <font size="5" color="gray">一、火花学院运营中心成立</font>
 
-## <font size="4" >1.1 丛书进度</font>
+火花学院运营中心成立，未来将体系化
+
+![avatar](images/20190611.png)
+
+# <font size="5" color="gray">二、内容制作</font>
+
+## <font size="4" >2.1 丛书进度</font>
 
 - 《遗传与进化》纸质书已印刷出版。
 
 ![avatar](images/20190601.png)
 
-## <font size="4" >1.2 新增内容</font>
+## <font size="4" >2.2 新增内容</font>
 
 6月新增素材131个，因重复下架素材4个。
 
@@ -41,9 +47,9 @@ sidebar:
 
 ![avatar](images/20190605.png)
 
-# <font size="5" color="gray">二、	运营支撑</font>
+# <font size="5" color="gray">三、运营支撑</font>
 
-## <font size="4" >2.1 火花学院MI初步确立</font>
+## <font size="4" >3.1 火花学院MI初步确立</font>
 
 - 使命：让1.6亿中小学生学科学获得美好体验
 
@@ -51,13 +57,17 @@ sidebar:
 
 - 价值观：严谨 专业 责任 积极 朝气 进取
 
-## <font size="4" >2.2 公开课支撑</font>
+## <font size="4" >3.2 公开课支撑</font>
 
 常规公开课支撑6次。
 
 ![avatar](images/20190609.png)
 
+# <font size="5" color="gray">四、项目进展</font>
 
+## <font size="4" >4.1 2个项目顺利结题</font>
 
+- XY-2019-rj02火花微课小程序
+- XY-2019-yf04用户信息采集与统一授权认证
 
-
+详情请点击[6月项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Jun)
