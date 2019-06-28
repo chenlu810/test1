@@ -11,6 +11,8 @@ sidebar:
 
 <bro/><bro/>
 
+![avatar](images/20190600.png)
+
 # <font size="5" color="gray">一、内容制作</font>
 
 ## <font size="4" >1.1 丛书进度</font>
