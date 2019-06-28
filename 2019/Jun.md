@@ -31,7 +31,7 @@ sidebar:
 
 ![avatar](images/20190603.png)
 
--青春期的变化
+- 青春期的变化
 
 ![avatar](images/20190604.png)
 
