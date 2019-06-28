@@ -39,7 +39,7 @@ sidebar:
 
 常规公开课支撑6次。
 
-![avatar](images/20190606.png)
+![avatar](images/20190607.png)
 
 
 
