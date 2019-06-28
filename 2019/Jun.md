@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/201906000.png)
+![avatar](images/20190698.png)
 
 # <font size="5" color="gray">一、火花学院运营中心成立</font>
 
