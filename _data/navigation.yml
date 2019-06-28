@@ -45,7 +45,7 @@ header:
 project:
   - title:      项目公示
     children:
-      - title:  2019年项目简介
+      - title:  2019年项目公示
         url:    /project/2019
       - title:  6月
         url:    /project/Jun
