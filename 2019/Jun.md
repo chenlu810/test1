@@ -11,23 +11,29 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190699.png)
+![avatar](images/20190600.png)
 
 # <font size="5" color="gray">一、火花学院运营中心成立</font>
 
-火花学院市场运营中心成立，未来将体系化展开市场运营工作，保障营销目标的实现、建立完善的用户服务、树立火花学院品牌形象。
+中心将体系化展开市场运营工作，制定和执行市场战略规划、建立完善的用户服务体系、树立火花学院良好品牌形象，最终保障营销目标的实现。
 
 ![avatar](images/20190611.png)
 
-# <font size="5" color="gray">二、内容制作</font>
+# <font size="5" color="gray">二、火花学院文档管理平台搭建完成</font>
 
-## <font size="4" >2.1 丛书进度</font>
+平台将统一按项目存放建设过程中产生的所有对内、对外相关资料，对内为项目管理提供依据，对外为市场运营提供标准文档。
+
+![avatar](images/20190612.png)
+
+# <font size="5" color="gray">三、内容制作</font>
+
+## <font size="4" >3.1 丛书进度</font>
 
 - 《遗传与进化》纸质书已印刷出版。
 
 ![avatar](images/20190601.png)
 
-## <font size="4" >2.2 新增内容</font>
+## <font size="4" >3.2 新增内容</font>
 
 6月新增素材131个，因重复下架素材4个。
 
