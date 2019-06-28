@@ -27,9 +27,15 @@ sidebar:
 
 部分素材展示
 
+- 硫酸钡沉淀的形成
+
 ![avatar](images/20190603.png)
 
+-青春期的变化
+
 ![avatar](images/20190604.png)
+
+- 人体的血液循环
 
 ![avatar](images/20190605.png)
 
