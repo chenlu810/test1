@@ -15,7 +15,7 @@ sidebar:
 
 ## <font size="4" >1.1 丛书进度</font>
 
-- 《遗传与进化》纸质书已印刷出版
+- 《遗传与进化》纸质书已印刷出版.
 
 ![avatar](images/20190601.png)
 
@@ -35,7 +35,7 @@ sidebar:
 
 # <font size="5" color="gray">二、	运营支撑</font>
 
-## <font size="4" >3.1 公开课支撑</font>
+## <font size="4" >2.1 公开课支撑</font>
 
 常规公开课支撑6次。
 
