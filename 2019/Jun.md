@@ -75,5 +75,3 @@ sidebar:
 
 - XY-2019-rj02火花微课小程序
 - XY-2019-yf04用户信息采集与统一授权认证
-
-详情请点击[6月项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Jun)
