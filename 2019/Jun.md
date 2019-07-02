@@ -23,7 +23,7 @@ sidebar:
 
 平台将统一按项目存放建设过程中产生的所有对内、对外相关资料，对内为项目管理提供依据，对外为市场运营提供标准文档。
 
-![avatar](images/20190612.png)
+![avatar](images/20190613.png)
 
 # <font size="5" color="gray">三、内容制作</font>
 
