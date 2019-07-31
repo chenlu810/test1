@@ -23,6 +23,8 @@ sidebar:
 
 部分素材展示
 
+![avatar](images/2019073107.png)
+
 # <font size="5" color="gray">二、软件开发</font>
 
 ## <font size="4" >2.1 工具库完成开发</font>
