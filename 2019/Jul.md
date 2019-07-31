@@ -64,7 +64,7 @@ sidebar:
 
   项目进展甘特图展示
  
-![avatar](images/2019073106.png)
+![avatar](images/201907310606.png)
 
 
 
