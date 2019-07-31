@@ -55,8 +55,8 @@ sidebar:
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[《银河补习班》一场关于教育的沉思](https://mp.weixin.qq.com/s/bzX4gUtwKVVESyAiEeUHrQ)|	374|
-|[莫扎特其实不是音乐天才） ](https://mp.weixin.qq.com/s/Wzpiev-nUmLptD1JO_Ws2Q)|	644|
+[《银河补习班》一场关于教育的沉思](https://mp.weixin.qq.com/s/bzX4gUtwKVVESyAiEeUHrQ)|	12|
+|[莫扎特其实不是音乐天才） ](https://mp.weixin.qq.com/s/Wzpiev-nUmLptD1JO_Ws2Q)|	8|
 
 
 
