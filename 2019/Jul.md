@@ -58,6 +58,12 @@ sidebar:
 [《银河补习班》一场关于教育的沉思](https://mp.weixin.qq.com/s/bzX4gUtwKVVESyAiEeUHrQ)|	12|
 |[莫扎特其实不是音乐天才） ](https://mp.weixin.qq.com/s/Wzpiev-nUmLptD1JO_Ws2Q)|	8|
 
+# <font size="5" color="gray">四、项目进展</font>
 
+## <font size="4" >4.1 2个项目顺利结题，1个项目进入灰度发布</font>
+
+- XY-2019-rj01火花学院学科工具库1.0
+- XY-2019-yf02火花学院移动端
+- XY-2019-yf01火花学院桌面端
 
 
