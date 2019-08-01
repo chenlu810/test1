@@ -25,9 +25,9 @@ sidebar:
 
 ![avatar](images/2019073108.png)
 
-![avatar](images/2019073110.png)
-
 ![avatar](images/2019073111.png)
+
+![avatar](images/2019073110.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
