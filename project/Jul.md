@@ -13,7 +13,7 @@ sidebar:
 
 - 项目详情
 
-| 项目令号       |  项目名称  |   详情链接  |
+| 项目令号       |  项目名称  |   点击进入单项目进度详情页  |
 |-------------  |:------:|:------:|
 |XY-2019-yf05   |教科书导航与应用	|[提前结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703639)|
 |XY-2019-rj01   |火花学院学科工具库1.0	|[提前结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=1376905)|
