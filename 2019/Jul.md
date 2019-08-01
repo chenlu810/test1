@@ -70,7 +70,7 @@ sidebar:
   
   详情请点击[7月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Jul)
  
-![avatar](images/project7.png)
+![avatar](images/project07.png)
 
 
 
