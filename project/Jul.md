@@ -13,14 +13,14 @@ sidebar:
 
 -项目详情
 
-| 项目令号 |  项目名称  |   详情链接  |
-|-------------|:------:|:------:|
+| 项目令号       |  项目名称  |   详情链接  |
+|-------------  |:------:|:------:|
 |XY-2019-yf05   |教科书导航与应用	|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703639)|
 |XY-2019-rj01   |火花学院学科工具库1.0	|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=1376905)|
 |XY-2019-yf02   |火花学院移动端	|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2688038)|
 |XY-2019-yf04   |用户信息采集与统一授权认证	|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2687042)|
 |XY-2019-rj02   |火花微课小程序	|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2687188)|
-|XY-2019-qt01   |火花学院品牌设计|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703396|)
+|XY-2019-qt01   |火花学院品牌设计|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703396)|
 |XY-2019-rj03   |基于PBL的探究式教学单元开发|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703753)|
 |XY-2019-nr03   |初中生物资源库|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703783)|
 |XY-2019-yf03   |火花学院PPT插件|[点击](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703147)|
