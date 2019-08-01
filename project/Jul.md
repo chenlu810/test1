@@ -21,7 +21,7 @@ sidebar:
 |XY-2019-yf04   |用户信息采集与统一授权认证	|2019.04.01|[提前结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2687042)|
 |XY-2019-rj02   |火花微课小程序	|2019.04.01|[如期结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2687188)|
 |XY-2019-qt01   |火花学院品牌设计|2019.04.01|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703396)|
-|XY-2019-rj03   |基于PBL的探究式教学单元开发|2019.04.16[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703753)|
+|XY-2019-rj03   |基于PBL的探究式教学单元开发|2019.04.16|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703753)|
 |XY-2019-nr03   |初中生物资源库|2019.03.18|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703783)|
 |XY-2019-yf03   |火花学院PPT插件|2019.06.01|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703147)|
 |XY-2019-nr02   |高中化学资源库|2019.03.18|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703765)|
