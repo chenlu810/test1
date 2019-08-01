@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20190801.png)
+![avatar](images/201908010.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
