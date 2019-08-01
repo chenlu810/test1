@@ -53,12 +53,12 @@ sidebar:
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 目前公众号关注总人数1673人，其中7月新增126人，发表文章2篇，总阅读量506次，总转发量62次。
+- 目前公众号关注总人数1673人，其中7月新增126人，发表文章2篇，总阅读量594次，总转发量62次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[《银河补习班》一场关于教育的沉思](https://mp.weixin.qq.com/s/bzX4gUtwKVVESyAiEeUHrQ)|	12|
-[莫扎特其实不是音乐天才](https://mp.weixin.qq.com/s/Wzpiev-nUmLptD1JO_Ws2Q)|	8|
+[《银河补习班》一场关于教育的沉思](https://mp.weixin.qq.com/s/bzX4gUtwKVVESyAiEeUHrQ)|	413|
+[莫扎特其实不是音乐天才](https://mp.weixin.qq.com/s/Wzpiev-nUmLptD1JO_Ws2Q)|	181|
 
 # <font size="5" color="gray">四、项目进展</font>
 
