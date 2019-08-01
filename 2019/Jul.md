@@ -66,7 +66,7 @@ sidebar:
   
   各项目进程明细，请点击[明细链接](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Jul.md)
  
-![avatar](images/201907310601.png)
+![avatar](images/201907310602.png)
 
 
 
