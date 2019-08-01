@@ -64,7 +64,7 @@ sidebar:
 
 - 3个项目提前结题，1个项目进入灰度发布
   
-  各项目进程明细，请点击明细链接(https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Jul.md)。
+  各项目进程明细，请点击[明细链接](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Jul.md)
  
 ![avatar](images/201907310601.png)
 
