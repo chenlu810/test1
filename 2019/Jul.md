@@ -17,23 +17,19 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-6月共上架素材140个，其中高中数学、高中化学、高中生物、初中数学、初中物理、初中地理、初中生物有新增素材。
+7月共新增架素材140个。
 
 ![avatar](images/201907310101.png)
 
 部分素材展示
 
-![avatar](images/2019073108.png)
-
-![avatar](images/2019073109.png)
-
-![avatar](images/2019073110.png)
+![avatar](images/2019073107.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
-## <font size="4" >2.1 工具库完成开发</font>
+## <font size="4" >2.1 工具库1.0完成开发</font>
 
-  集成功能
+  火花学院工具库1.0开发完成，将为老师们的内容创作提供更多选择。
 
 - Desmos编辑器：在线绘图型计算器，输入函数式便能自动绘制出对应的方程式或函数图形；
 
@@ -43,7 +39,7 @@ sidebar:
 
 ![avatar](images/2019073103.png)
 
-- 画廊：以简单的轮播形式展示不同的图片，用户可以自己制作简单的微件 。
+- 画廊：以简单的轮播形式展示不同的图片，老师可以制作简单的微件 。
 
 ![avatar](images/2019073104.png)
 
@@ -51,13 +47,13 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑2次，省级、区级公开课各一次。
+常规公开课支撑2次。
 
 ![avatar](images/2019073105.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 目前公众号关注总人数1673人，其中7月新增126人，发表文章2篇，总阅读量594次，总转发量62次。
+- 目前公众号关注总人数1673人，本月新增126人，发表文章2篇，总阅读量594次，总转发量62次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
@@ -66,9 +62,9 @@ sidebar:
 
 # <font size="5" color="gray">四、项目进展</font>
 
-- 3个项目提前结题，1个项目进入灰度发布
+- 3个项目提前结题，1个项目完成灰度发布
   
-  各项目进程明细，请点击[明细链接](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Jul.md)
+  详情请点击[7月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/2019/Jul)
  
 ![avatar](images/201907310602.png)
 
