@@ -49,8 +49,6 @@ project:
     children:
       - title:  2019年项目公示
         url:    /project/2019
-      - title:  6月
-        url:    /project/Jun
       - title:  7月
         url:    /project/Jul
 
