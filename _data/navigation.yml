@@ -52,7 +52,7 @@ project:
       - title:  6月
         url:    /project/Jun
       - title:  7月
-        url:    /2019/Jul
+        url:    /project/Jul
 
 layouts:
   - title: Layouts
