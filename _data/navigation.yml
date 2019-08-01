@@ -41,6 +41,8 @@ header:
         url:    /2019/May
       - title:  6月
         url:    /2019/Jun
+        - title:  7月
+        url:    /2019/Jul
         
 project:
   - title:      项目公示
@@ -49,6 +51,8 @@ project:
         url:    /project/2019
       - title:  6月
         url:    /project/Jun
+        - title:  7月
+        url:    /2019/Jul
 
 layouts:
   - title: Layouts
