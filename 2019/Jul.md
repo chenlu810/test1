@@ -63,8 +63,8 @@ sidebar:
 # <font size="5" color="gray">四、项目进展</font>
 
 - 3个项目提前结题，1个项目进入灰度发布
-
-  项目进展甘特图展示
+  
+  各项目进程明细，请点击明细链接(https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Jul.md)。
  
 ![avatar](images/201907310601.png)
 
