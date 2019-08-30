@@ -81,7 +81,7 @@ sidebar:
 
 # <font size="5" color="gray">四、项目进展</font>
 
-- 3个项目结题，其中2个项目提前结题
+- 3个项目结题，其中2个项目提前结题.
   
   详情请点击[8月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Aug)
  
