@@ -67,6 +67,8 @@ sidebar:
 
 - 火花官方微博建立，发表微博16篇，关注人数增加10023人，阅读总数6349。
 
+![avatar](images/20190929.png)
+
 - 火花订阅号“火花名师汇”建立，关注总人数14人，发表文章8篇，总阅读量581次，阅读人数223人。
 
 - 火花服务号“火花学院”关注总人数1683人，本月新增78人，发表文章3篇，总阅读量1207次，总转发量120次
@@ -83,7 +85,7 @@ sidebar:
   
   详情请点击[7月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Jul)
  
-![avatar](images/project07.png)
+![avatar](images/20190920.png)
 
 
 
