@@ -83,7 +83,7 @@ sidebar:
 
 - 3个项目结题，其中2个项目提前结题
   
-  详情请点击[7月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Jul)
+  详情请点击[8月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Aug)
  
 ![avatar](images/20190920.png)
 
