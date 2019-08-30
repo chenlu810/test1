@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 8月项目进展
+title: 7月项目进展
 permalink: /project/Jul
 key: project-Jul
 aside:
