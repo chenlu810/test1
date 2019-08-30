@@ -29,7 +29,7 @@ sidebar:
 |XY-2019-nr06   |初中地理资源库|2019.03.16 — 2019.12.30|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703799)|
 |XY-2019-nr04   |高中数学素材库2.0|2019.03.18 — 2019.11.01|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703788)|
 |XY-2019-nr01   |小学生命科学|2019.03.11 — 2019.10.10|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703778)|
-|XY-2019-nr05   |初中物理素材开发|2019.03.01 — 2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703794)|
+|XY-2019-nr05   |初中物理素材开发|2019.03.15 — 2019.10.14|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703794)|
 |XY-2019-rj05   |火花闪现|2019.05.01 — 2019.10.31|[严重滞后](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703774)|
 |XY-2019-nr07   |火花专修教室整体解决方案|2019.04.01 — 2019.09.30|[严重滞后](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703804)|
 |XY-2019-rj04   |火花学院官网调整|2019.04.01 — 2019.06.31|[延期](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2687307)|
