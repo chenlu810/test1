@@ -77,6 +77,15 @@ sidebar:
 [《小欢喜》三个家庭教育的真相：你是哪一种？](https://mp.weixin.qq.com/s/3JmBIVlsxNb4NcWDWnCcnA)|	297|
 [要开学了！准备好了吗？（内附超强补作业大法）](https://mp.weixin.qq.com/s/IsGzvF3TGWAUnWDpdmm_mg)|	296|
 
+- 目前火花名师汇关注总人数14人，发表文章8篇，总阅读量581次，阅读人数223人。
+
+- 火花官网微博已创建，发表微博16篇，关注人数增加10023人，阅读总数6349。
+
+| 推文名称 |  阅读人数  | 
+|-------------|:------:|
+[火花学院与金山办公WPS深度合作：主推可视化精品课程开发](https://mp.weixin.qq.com/s/x0p9CsNpwHwNLNZPkr7pBA)|	614|
+
+
 # <font size="5" color="gray">四、项目进展</font>
 
 - 3个项目提前结题，1个项目完成灰度发布
