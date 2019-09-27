@@ -51,14 +51,15 @@ sidebar:
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花服务号“火花学院”关注总人数  人，本月新增  人，发表文章4篇，总阅读量1230次，总转发量  次。
+- 火花服务号“火花学院”关注总人数1715人，本月新增97人，发表文章5篇，总阅读量1958次，总转发量152次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[“兴趣能当饭吃吗？“你别说，还真能””](https://mp.weixin.qq.com/s/TCJD_NvXAfwVtknAfChS1Q)|	291|
-[粉笔染白头 三尺献师恩](https://mp.weixin.qq.com/s/nDJ_rwn_FjUwa-TNYyvu6w)|	157|
-[中秋节快乐！](https://mp.weixin.qq.com/s/X2MlrfRkgnEXMkRpHSGHQA)|	113|
-[火花学院2019品牌形象升级发布会](https://mp.weixin.qq.com/s/VtxmtHura42mVM3f6jdUTg)|	669|
+[“兴趣能当饭吃吗？“你别说，还真能””](https://mp.weixin.qq.com/s/TCJD_NvXAfwVtknAfChS1Q)|	275|
+[粉笔染白头 三尺献师恩](https://mp.weixin.qq.com/s/nDJ_rwn_FjUwa-TNYyvu6w)|	146|
+[中秋节快乐！](https://mp.weixin.qq.com/s/X2MlrfRkgnEXMkRpHSGHQA)|	112|
+[火花学院2019品牌形象升级发布会](https://mp.weixin.qq.com/s/VtxmtHura42mVM3f6jdUTg)|	662|
+[科技变革教育，数字驱动未来](https://mp.weixin.qq.com/s/9oL_8NA2nSZ9QKte1ljy2g)|	620|
 
 # <font size="5" color="gray">四、项目进展</font>
 
