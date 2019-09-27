@@ -65,13 +65,13 @@ sidebar:
 
 # <font size="5" color="gray">四、项目进展</font>
 
-- 1个项目如期结题
+## powerpoint插件项目如期结题
   
   详情请点击[9月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Sep)
  
 ![avatar](images/20190933.png)
 
-- 2019年下半年项目建设启动
+## 2019年下半年项目建设启动
 
 发布20个子项目主题，立项14个，其中内容类9个、软件类5个，详情请点击[2019年下半年项目公示]()。
 
