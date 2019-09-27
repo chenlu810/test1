@@ -43,6 +43,12 @@ sidebar:
 
 # <font size="5" color="gray">三、	运营支撑</font>
 
+## <font size="4" >3.1 公开课支撑</font>
+
+常规公开课支撑2次。
+
+![avatar](images/20190906.png)
+
 ## <font size="4" >3.2 品牌运营</font>
 
 - 火花服务号“火花学院”关注总人数  人，本月新增  人，发表文章4篇，总阅读量1230次，总转发量  次。
