@@ -23,9 +23,9 @@ sidebar:
 |XY-2019-rj03   |基于PBL的探究式教学单元开发|2019.04.16 — 2019.09.15|[提前结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703753)|
 |XY-2019-yf01   |火花学院桌面端|2019.04.01 — 2019.08.31|[提前结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3702917)|
 |XY-2019-rj04   |火花学院官网调整|2019.04.01 — 2019.06.31|[延期结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=2687307)|
+|XY-2019-yf03   |火花学院PPT插件|2019.06.01 — 2019.09.30|[如期结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703147)|
 |XY-2019-qt01   |火花学院品牌设计|2019.04.01 — 2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703396)|
 |XY-2019-nr03   |初中生物资源库|2019.03.18 — 2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703783)|
-|XY-2019-yf03   |火花学院PPT插件|2019.06.01 — 2019.09.30|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703147)|
 |XY-2019-nr02   |高中化学资源库|2019.03.18 — 2019.10.18|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703765)|
 |XY-2019-nr06   |初中地理资源库|2019.03.16 — 2019.12.30|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703799)|
 |XY-2019-nr04   |高中数学素材库2.0|2019.03.18 — 2019.11.01|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=3703788)|
