@@ -51,9 +51,9 @@ sidebar:
 
 - 火花学院2019品牌升级发布会“火花·不止所见”圆满完成，品牌发言人王敏分别从MI理念输出、VI使用管理规范，UI未来发展规划等方向阐述了品牌的核心理念，描绘了火花学院的品牌形象。详情点击查看[火花学院VI体系](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=7016780)。
 
-![avatar](images/20190977.png)
+![avatar](images/20190977.jpeg)
 
-![avatar](images/20190988.png)
+![avatar](images/20190988.jpeg)
 
 
 - 火花服务号“火花学院”关注总人数1715人，本月新增97人，发表文章5篇，总阅读量1958次，总转发量152次。
@@ -80,6 +80,6 @@ sidebar:
 
 ## 2019年下半年项目建设启动
 
-发布20个子项目主题，立项14个，其中内容类9个、软件类5个，详情请点击[2019年下半年项目公示]()。
+发布20个子项目主题，立项14个，其中内容类9个、软件类5个，详情请点击[2019年下半年项目详情](https://xiyue-team.github.io/doc_monthlyreport/project/2019#2019%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%AB%8B%E9%A1%B9%E9%A1%B9%E7%9B%AE)。
 
 
