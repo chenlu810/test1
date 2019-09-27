@@ -49,11 +49,11 @@ sidebar:
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花学院2019品牌升级发布会圆满进行，VI体系建设完成，详情点击查看[火花学院VI体系](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=7016780)。
+- 火花学院2019品牌升级发布会“火花·不止所见”圆满完成，品牌发言人王敏分别从MI理念输出、VI使用管理规范，UI未来发展规划等方向阐述了品牌的核心理念，描绘了火花学院的品牌形象。详情点击查看[火花学院VI体系](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=7016780)。
 
-![avatar](https://mmbiz.qpic.cn/mmbiz_jpg/uZX5wRLHuSBWhicV8poazNAPZNyiazn5wAR0YEzrvBIIO9gkbHf7UzcG7m9qEr1V4h2ice5Tbt4FkkW00xNycyjHQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![avatar](images/20190977.png)
 
-![avatar](https://mmbiz.qpic.cn/mmbiz_jpg/uZX5wRLHuSBWhicV8poazNAPZNyiazn5wAZYTL9ypO0YNoIshJ8UHXEIuBPXZImLzazKzK0ltiaFniazSVmHq5ibLLA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![avatar](images/20190988.png)
 
 
 - 火花服务号“火花学院”关注总人数1715人，本月新增97人，发表文章5篇，总阅读量1958次，总转发量152次。
