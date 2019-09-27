@@ -45,16 +45,21 @@ header:
         url:    /2019/Jul
       - title:  8月
         url:    /2019/Aug
+      - title:  9月
+        url:    /2019/Sep
+   
         
 project:
-  - title:      项目公示
+  - title:      2019年项目公示
     children:
-      - title:  2019年项目公示
+      - title:  项目详情
         url:    /project/2019
-      - title:  7月
+      - title:  7月项目进度
         url:    /project/Jul
-      - title:  8月
+      - title:  8月项目进度
         url:    /project/Aug
+      - title:  9月项目进度
+        url:    /project/Sep
         
 layouts:
   - title: Layouts
