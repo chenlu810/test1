@@ -17,9 +17,9 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-8月共上架素材241个。
+9月共上架素材88个、课件1个。
 
-![avatar](images/20190901.png)
+![avatar](images/2019090101.png)
 
 部分素材展示
 
