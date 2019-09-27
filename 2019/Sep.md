@@ -19,7 +19,7 @@ sidebar:
 
 8月共上架素材241个。
 
-![avatar](images/2019080901.png)
+![avatar](images/20190901.png)
 
 部分素材展示
 
