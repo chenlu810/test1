@@ -90,7 +90,7 @@ sidebar:
   
   | 序号 | 项目名称  | 项目经理  |项目令号  | 明细  |
 |-------------|:------:|:------:|:------:|
-|1|初中化学课程与资源库|	储松苗|XY-2019-nr14|点击 |
+[1]初中化学课程与资源库|	储松苗|XY-2019-nr14|点击 |
 [粉笔染白头 三尺献师恩](https://mp.weixin.qq.com/s/nDJ_rwn_FjUwa-TNYyvu6w)|	157|
 [中秋节快乐！](https://mp.weixin.qq.com/s/X2MlrfRkgnEXMkRpHSGHQA)|	113|
 [火花学院2019品牌形象升级发布会](https://mp.weixin.qq.com/s/VtxmtHura42mVM3f6jdUTg)|	669|
