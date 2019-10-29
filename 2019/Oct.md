@@ -67,7 +67,7 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-火花学院PowerPoint插件项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyueteam/doc_monthlyreport/blob/master/project/Oct.md)。
+火花学院PowerPoint插件项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
  
 ![avatar](images/20191007.png)
 
