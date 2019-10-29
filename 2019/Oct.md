@@ -67,13 +67,13 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-火花学院PowerPoint插件项目如期结题，详情请点击[10月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/Sep)。
+火花学院PowerPoint插件项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyueteam/doc_monthlyreport/blob/master/project/Oct.md)。
  
 ![avatar](images/20191007.png)
 
 ## 2019年下半年立项项目
 
-下半年立项项目中火花学院学科工具库2.0、利用工具库创作素材、DMS数据营销系统方案评审已通过，详情请点击[10月项目进度公示](https://xiyue-team.github.io/doc_monthlyreport/project/2019#2019年下半年立项项目)。
+下半年立项项目中火花学院学科工具库2.0、利用工具库创作素材、DMS数据营销系统方案评审已通过，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
 
 ![avatar](images/20191008.png)
 
