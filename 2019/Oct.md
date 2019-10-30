@@ -17,7 +17,7 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-10月共上架素材172个,其中有素材增加的学科包括：高中数学、高中物理、高中化学、初中数学、初中物理、初中化学、初中地理、初中生物、小学数学、小学科学。
+10月共上架素材172个。
 
 ![avatar](images/20191001.png)
 
@@ -31,11 +31,9 @@ sidebar:
 
 # <font size="5" color="gray">二、软件开发</font>
 
-## <font size="4" >2.1 火花学院Powerpoint插件</font>
+## <font size="4" >2.1 火花学院Powerpoint插件开放下载</font>
 
-- 已于火花学院官方网站发布，用户可登录官方网站下载并使用。
-
-- 该插件主要针对win7以上系统（包括win7）、Office13以上版本（包括Office13）。
+- [下载请点击](https://www.huohuaschool.com/download)
 
 ![avatar](images/20191005.png)
 
@@ -43,7 +41,7 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑11次，其中包括：江苏省及安徽省分别4次，广州省、四川省、贵州省分别1次。
+常规公开课支撑11次。
 
 ![avatar](images/20191006.png)
 
@@ -67,7 +65,7 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-火花学院PowerPoint插件项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
+高中化学资源库如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
  
 ![avatar](images/20191007.png)
 
