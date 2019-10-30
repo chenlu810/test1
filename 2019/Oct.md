@@ -33,7 +33,7 @@ sidebar:
 
 ## <font size="4" >2.1 火花学院Powerpoint插件开放下载</font>
 
-- [下载请点击](https://www.huohuaschool.com/download)
+- 火花学院Powerpoint插件下载： [请点击](https://www.huohuaschool.com/download)
 
 ![avatar](images/20191005.png)
 
