@@ -44,13 +44,13 @@ sidebar:
 |XY-2019-nr14   |初中化学课程与资源库	|2019.9.1-2019.12.31[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=10256976)
 |XY-2019-nr09  |利用工具库创作素材	  |2019.9.1-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=10256465)|
 |XY-2019-nr15 |初中数学素材库建设1.0	 |	2019.9.15-2019.12.20[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=12582924)
+|XY-2019-rj07 |火花学院移动端3.0	 |2019.9.1-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=8782446)|
+|XY-2019-rj09 |DMS数据营销系统	 |2019.9.1-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=8782467)|
+|XY-2019-rj08 |火花学院桌面端3.0及视频保护	 |2019.09.01-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=10256433)|
 |XY-2019-nr13  |小学科学素材库建设2.0	|2019.9.15-2019.12.20|进行中|
 |XY-2019-nr10 |火花学院phet素材冲量项目 |2019.9.1-2019.12.31|进行中|
-|XY-2019-rj07 |火花学院移动端3.0	 |2019.9.1-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=8782446)|
 |XY-2019-nr11 |地理地形	 |2019.09.01-2019.12.15|进行中|
-|XY-2019-rj09 |DMS数据营销系统	 |2019.9.1-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=8782467)|
 |XY-2019-nr17 |课件模板	 |2019.9.15-2019.12.20|进行中|
-|XY-2019-rj08 |火花学院桌面端3.0及视频保护	 |2019.09.01-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=10256433)|
 |XY-2019-nr16 |小学数学素材库建设	 |2019.10.01-2019.12.20|进行中|
 |XY-2019-nr12  |高中数学精品课件1.1  |2019.9.5-2019.12.30|冻结|
 
