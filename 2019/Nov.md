@@ -31,11 +31,25 @@ sidebar:
 
 # <font size="5" color="gray">二、软件开发</font>
 
-## <font size="4" >2.1 火花学院Powerpoint插件开放下载</font>
+## <font size="4" >2.1 “火花学院学科工具库2.0”完成开发</font>
 
-- 火花学院Powerpoint插件下载： [请点击](https://www.huohuaschool.com/download)
+- 开发五个学科工具：弹出项、思维导图、交互式图像、知识分类、图像切换。
 
-![avatar](images/20191005.png)
+部分开发工具图片展示：
+
+![avatar](images/20191105.png)
+
+![avatar](images/201911005.png)
+
+## <font size="4" >2.2 “第三方嵌入界面和火花书屋”完成开发</font>
+
+- “第三方提供火花学院嵌入页面”开发：便于第三方（如戴特）调取火花资源。
+
+![avatar](images/20191106.png)
+
+- “火花书屋”开发：将现有数字教参单独打包并上传至苹果商店，便于测试市场对数字教参的欢迎程度。
+
+![avatar](images/201911006.png)
 
 # <font size="5" color="gray">三、	运营支撑</font>
 
