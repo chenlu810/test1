@@ -77,13 +77,13 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-“高中数学素材库2.0”项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
+“高中数学素材库2.0”项目如期结题，详情请点击[11月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Nov.md)。
  
 ![avatar](images/20191007.png)
 
 ## 2019年下半年立项项目
 
-“火花学院学科工具库2.0”、“第三方嵌入界面与火花书屋”2个项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
+“火花学院学科工具库2.0”、“第三方嵌入界面与火花书屋”2个项目如期结题，详情请点击[11月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Nov.md)。
 
 ![avatar](images/20191008.png)
 
