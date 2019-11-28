@@ -77,13 +77,13 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-“高中化学资源库”项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
+“高中数学素材库2.0”项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
  
 ![avatar](images/20191007.png)
 
 ## 2019年下半年立项项目
 
-下半年立项项目中“火花学院学科工具库2.0”、“利用工具库创作素材”、“DMS数据营销系统”3个项目的方案评审已通过，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
+“火花学院学科工具库2.0”、“第三方嵌入界面与火花书屋”2个项目如期结题，详情请点击[10月项目进度公示](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/Oct.md)。
 
 ![avatar](images/20191008.png)
 
