@@ -19,7 +19,7 @@ sidebar:
 
 11月共上架素材140个。
 
-![avatar](images/20191101.png)
+![avatar](images/201911001.png)
 
 部分素材展示
 
