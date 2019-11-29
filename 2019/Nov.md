@@ -31,7 +31,7 @@ sidebar:
 
 # <font size="5" color="gray">二、软件开发</font>
 
-## <font size="4" >2.1 “火花学院学科工具库2.0”完成开发</font>
+## <font size="4" >2.1 火花学院学科工具库2.0完成开发</font>
 
 - 新增五个学科工具：弹出项、思维导图、交互式图像、知识分类、图像切换。
 
@@ -41,19 +41,19 @@ sidebar:
 
 ![avatar](images/201911005.png)
 
-## <font size="4" >2.2 第三方嵌入界面完成开发</font>
-
-为第三方（如戴特）调取火花资源提供解决方案。
-
-![avatar](images/20191106.png)
-
-## <font size="4" >2.3 7本火花教参独立APP上架苹果商店</font>
+## <font size="4" >2.2 7本火花教参独立APP上架苹果商店</font>
 
 火花学院新媒体可视化教学教育丛书除纸质版和火花学院客户端电子版外，还为每本书提供ios版独立APP。
 
 ![avatar](images/201911006.png)
 
-# <font size="5" color="gray">三、	运营支撑</font>
+## <font size="4" >2.3 第三方嵌入界面完成开发</font>
+
+为第三方（如戴特）调取火花资源提供解决方案。
+
+![avatar](images/20191106.png)
+
+# <font size="5" color="gray">三、运营支撑</font>
 
 ## <font size="4" >3.1 公开课支撑</font>
 
