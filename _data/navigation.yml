@@ -49,7 +49,8 @@ header:
         url:    /2019/Sep
       - title:  10月
         url:    /2019/Oct
-   
+      - title:  11月
+        url:    /2019/Nov   
         
 project:
   - title:      2019年项目公示
@@ -64,6 +65,8 @@ project:
         url:    /project/Sep
       - title:  10月项目进度
         url:    /project/Oct
+      - title:  11月项目进度
+        url:    /project/Nov
         
 layouts:
   - title: Layouts
