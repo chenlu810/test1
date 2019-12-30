@@ -81,7 +81,7 @@ sidebar:
 
 “高中数学素材库2.0”项目如期结题，详情请点击[2019上半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Nov#2019%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
  
-![avatar](images/20191196.png)
+![avatar](images/20191241.png)
 
 ## 2019年下半年立项项目
 
