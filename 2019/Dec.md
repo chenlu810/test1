@@ -17,9 +17,9 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-11月共上架素材144个。
+12月共上架素材417个。
 
-![avatar](images/201911001.png)
+![avatar](images/20191210.png)
 
 部分素材展示
 
