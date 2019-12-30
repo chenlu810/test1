@@ -63,17 +63,17 @@ sidebar:
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花服务号“火花学院”关注总人数2423人，本月新增643人，发表文章3篇，总阅读量2055，总转发量656次。
+- 火花学院服务号“火花学院”关注总人数2437人，本月新增220人，发表文章4篇，总阅读量5338，总转发量1025次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[如何用科学方法找男/女朋友](https://mp.weixin.qq.com/s/T5f7K1_zYSjvrOx1-kZntA)|	955|
-[象牙塔里，也有光照不到的地方](https://mp.weixin.qq.com/s/kZ_n59dOHPoJeJ_5ZJ_qTA)|	409|
-[不用量子波动，睡觉就能帮助记忆](https://mp.weixin.qq.com/s/yeNq2EpvvdIf1klCjfqCCg)|	612|
+[中国人该不该过圣诞节？](https://mp.weixin.qq.com/s/q4WdHCcUgfA3jAdUjyLGkw)|	1900|
+[双十二指南：科学花钱让人更快乐](https://mp.weixin.qq.com/s/x4wuMlC5Sey5jsydImkK6A)|	1368|
+[你是不是也掉进过“伪挫折教育”的坑？](https://mp.weixin.qq.com/s/SiILDeYY4jl4N7a5DVFA4A)|	1135|
 
-- 火花订阅号“火花名师汇”关注总人数29人，发表文章6篇，阅读量40次，阅读人数30人
+- 火花学院订阅号“火花名师汇”关注总人数74人，发表文章7篇，阅读量54次，阅读人数50人。
 
-- 火花微博“火花官方”发表微博18篇，涨粉16人，阅读总数5728
+- 火花微博“火花官方”发表微博21篇，涨粉16人，阅读总数6669。
 
 # <font size="5" color="gray">四、项目进展</font>
 
