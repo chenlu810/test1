@@ -51,7 +51,7 @@ sidebar:
 |XY-2019-nr15 |初中数学素材库建设1.0	 |	2019.9.15-2019.12.20|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=12583168)|
 |XY-2019-rj07 |火花学院移动端3.0	 |2019.9.1-2019.12.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=12584432)|
 |XY-2019-nr13  |小学科学素材库建设2.0	|2019.9.15-2019.12.20|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=12583907)|
-|XY-2019-nr16 |小学数学素材库建设	 |2019.10.01-2019.12.20|冻结|
+|XY-2019-nr16 |小学数学素材库建设	 |2019.10.01-2019.12.20|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=12584473)|
 |XY-2019-nr12  |高中数学精品课件1.1  |2019.9.5-2019.12.30|冻结|
 
 
