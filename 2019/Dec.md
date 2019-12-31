@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/201911000.png)
+![avatar](images/20191200.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -82,13 +82,13 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-“高中数学素材库2.0”项目如期结题，详情请点击[2019上半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Nov#2019%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
+火花学院品牌设计、火花学院专修教室整体解决方案、初中生物资源库、初中物理素材开发四个项目结题，详情请点击[2019上半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
  
 ![avatar](images/20191241.png)
 
 ## 2019年下半年立项项目
 
-“火花学院学科工具库2.0”、“第三方嵌入界面与火花书屋”2个项目如期结题，详情请点击[2019下半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Nov#2019%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
+DMS数据营销系统、火花学院桌面端3.0及视频保护、课件模板、地理地形、火花学院phet素材冲量、利用工具库创作素材六个项目结题，详情请点击[2019下半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
 
 ![avatar](images/20191242.png)
 
