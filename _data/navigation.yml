@@ -69,6 +69,8 @@ project:
         url:    /project/Oct
       - title:  11月项目进度
         url:    /project/Nov
+      - title:  12月项目进度
+        url:    /project/Dec
         
 layouts:
   - title: Layouts
