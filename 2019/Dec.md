@@ -90,7 +90,7 @@ sidebar:
 
 DMS数据营销系统、火花学院桌面端3.0及视频保护、课件模板、地理地形、火花学院phet素材冲量、利用工具库创作素材六个项目结题，详情请点击[2019下半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
 
-![avatar](images/20191242.png)
+![avatar](images/20191243.png)
 
 
 
