@@ -82,15 +82,15 @@ sidebar:
 
 ## 2019年上半年立项项目
 
-火花学院品牌设计、火花学院专修教室整体解决方案、初中生物资源库、初中物理素材开发四个项目结题，详情请点击[2019上半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
+火花学院品牌设计、火花闪现、火花学院专修教室整体解决方案、初中生物资源库、初中物理素材开发五个项目结题，详情请点击[2019上半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
  
-![avatar](images/20191241.png)
+![avatar](images/20191244.png)
 
 ## 2019年下半年立项项目
 
-DMS数据营销系统、火花学院桌面端3.0及视频保护、课件模板、地理地形、火花学院phet素材冲量、利用工具库创作素材六个项目结题，详情请点击[2019下半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
+初中化学课程与资源库、DMS数据营销系统、火花学院桌面端3.0及视频保护、课件模板、地理地形、火花学院phet素材冲量、利用工具库创作素材七个项目结题，详情请点击[2019下半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
 
-![avatar](images/20191243.png)
+![avatar](images/20191245.png)
 
 
 
