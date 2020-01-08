@@ -149,23 +149,17 @@ sidebar:
 
 ![avatar](images/20190022.png)
 
-# <font size="5" color="gray">四、顶级域名启用</font>
+# <font size="5" color="gray">四、项目制运行良好</font>
 
-2018年火花学院官网改版，[www.huohuaschool.com](www.huohuaschool.com) 启用，新增专题版块及相关资源推荐。
+## <font size="4" >4.1 组织架构形成</font>
 
-![avatar](images/2018website.png)
+![avatar](images/20190023.png)
 
-![avatar](images/2018topic1.png)
+## <font size="4" >4.2 整体结题顺利</font>
 
-# <font size="5" color="gray">五、公众号新增AR体验</font>
+- 2019年立项33个，完成结题25个，结题率81%（不含冻结项目）。
 
-2018年微信公众号新增AR体验及课例版块，未安装火花APP的情况下也可体验火花内容产品。
+![avatar](images/20190024.png)
 
-![avatar](images/2018WeChat1.png)
 
-# <font size="5" color="gray">六、微课小程序上线</font>
-
-2018年火花学院首个微信小程序（火花微课）上线。
-
-![avatar](images/2018xcx.png)
 
