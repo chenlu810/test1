@@ -153,7 +153,7 @@ sidebar:
 
 ## <font size="4" >4.1 组织架构形成</font>
 
-![avatar](images/20190023.png)
+![avatar](images/20190033.png)
 
 ## <font size="4" >4.2 整体结题顺利</font>
 
