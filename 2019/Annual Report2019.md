@@ -95,6 +95,8 @@ sidebar:
 
 - MI、VI、UI建设完成，并于9月举办2019“火花·不止所见”品牌升级发布会，统一公司产品设计规范及品牌形象输出。
 
+<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91.gif" width = "100" height = "100" div align=right />
+
 ![avatar](images/不愧是我.gif)![avatar](images/开学季3_光明正大的学习.gif)![avatar](images/开学季8_祖国的花朵.gif)
 
 ![avatar](images/20190013.png)
