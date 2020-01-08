@@ -105,13 +105,37 @@ sidebar:
 
 火花学院形象代言人阿福微信表情包，目前有24个表情。
 
+![avatar](images/20190015.png)
+
+![avatar](images/20190016.png)
+
+![avatar](images/20190017.png)
+
 - 海报发布
 
 自2019年8月～12月，发布海报33张，其中朋友圈和抖音落地页海报6张，品牌推广类海报3张，节气类海报8张，节日类海报16张。
 
+![avatar](images/20190018.png)
 
+- 稿件发布
 
-![avatar](images/20190013.png)
+![avatar](images/20190019.png)
+
+## <font size="4" >3.5 自媒体数据增长</font>
+
+- 对公司现有的自媒体账号（火花学院服务号、火花名师汇订阅号、微博火花官方、抖音火花学院、爱奇艺火花学院、优酷火花学院、腾讯火花学院）进行重新定位，以目标用户为导向，输出传播内容。
+
+![avatar](images/20190020.png)
+
+- 阅读量排名前五文章
+
+| 推文名称 |  阅读人数  | 
+|-------------|:------:|
+[学不好数理化是因为脑子笨？或许只是因为……](https://mp.weixin.qq.com/s/WL6vqBW2r5MzBz2uWZyqVA)|	8459|
+[中国人该不该过圣诞节？](https://mp.weixin.qq.com/s/q4WdHCcUgfA3jAdUjyLGkw)|	3399|
+[双十二指南：科学花钱让人更快乐](https://mp.weixin.qq.com/s/x4wuMlC5Sey5jsydImkK6A)|	1663|
+[如何用科学方法找男/女朋友]()|	1593|
+[“人人都是班干部”是教育探索，还是官场遗风？](https://mp.weixin.qq.com/s/fiiPn1LynE8zZ6mKVndDCw)|	1555|
 
 # <font size="5" color="gray">四、顶级域名启用</font>
 
