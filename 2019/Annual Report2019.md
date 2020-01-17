@@ -95,9 +95,7 @@ sidebar:
 
 - MI、VI、UI建设完成，并于9月举办2019“火花·不止所见”品牌升级发布会，统一公司产品设计规范及品牌形象输出。
 
-<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91.gif" width = "100" height = "100" div align=left />
-<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A38_%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5.gif" width = "100" height = "100" div align=left />
-<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A33_%E5%85%89%E6%98%8E%E6%AD%A3%E5%A4%A7%E7%9A%84%E5%AD%A6%E4%B9%A0.gif" width = "100" height = "100" div align=left />
+
 
 ![avatar](images/20190013.png)
 
@@ -107,11 +105,11 @@ sidebar:
 
 火花学院形象代言人阿福微信表情包，目前有24个表情。
 
-![avatar](images/20190015.png)
+<font size="3" >部分表情包展示</font>
 
-![avatar](images/20190016.png)
-
-![avatar](images/20190017.png)
+<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91.gif" width = "100" height = "100" div align=left />
+<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A38_%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5.gif" width = "100" height = "100" div align=left />
+<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A33_%E5%85%89%E6%98%8E%E6%AD%A3%E5%A4%A7%E7%9A%84%E5%AD%A6%E4%B9%A0.gif" width = "100" height = "100" div align=left />
 
 - 海报发布
 
