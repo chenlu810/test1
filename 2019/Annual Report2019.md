@@ -19,7 +19,7 @@ sidebar:
 
 - 2019年自研素材（微件、3d、视频）2181个，较上年（424）增长414%。
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分科目自研素材新增&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分类型自研素材新增</font>
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分科目自研素材新增&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分类型自研素材新增</font>
 
 
 <img src="images/20199002.png" width="800"/>
@@ -32,7 +32,7 @@ sidebar:
 
 “课程“是以打造以教学设计为核心的课程体系，其丰富教学内容形式，为实现教学闭环提供完整的解决方案。
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程结构&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程示例</font>
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程结构&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程示例</font>
 
 <img src="images/20199991.png" width="800"/>
 
@@ -66,7 +66,7 @@ sidebar:
 
 - 火花书屋：七本火花数字教参独立上架App Store。
 
-<img src="images/20199995.png" width="400"/>
+<img src="images/20199995.png" width="300"/>
 
 ## <font size="4" >2.4 新增内容生产工具</font>
 
@@ -87,25 +87,25 @@ sidebar:
 
 ## <font size="4" >3.1 运营团队成立</font>
 
-![avatar](images/20190010.png)
+<img src="images/20199111.png" width="400"/>
 
 ## <font size="4" >3.2 渠道初步建设</font>
 
 - 火花学院与与国内办公软件市场领导者”WPS“、中东地区最大的图书出版集团“数字未来”、教育行业头部内容资源站“学科网”等达成战略合作，未来将获得更为广泛的用户资源，极大的提升了在国内外教育行业的认知度。
 
-![avatar](images/20190011.png)
+<img src="images/20199998.png" width="800"/>
 
 - 火花学院与成都外国语学校、南京外国语学校达成样板校合作协议。
 
-![avatar](images/20190012.png)
+<img src="images/20199999.png" width="350"/>
 
 ## <font size="4" >3.3 品牌体系升级</font>
 
 - MI、VI、UI建设完成，并于9月举办2019“火花·不止所见”品牌升级发布会，统一公司产品设计规范及品牌形象输出。
 
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发布会海报、卡通IP阿福</font>
 
-
-![avatar](images/20190013.png)
+<img src="images/20199989.png" width="800"/>
 
 ## <font size="4" >3.4 品牌形象输出</font>
 
@@ -115,35 +115,27 @@ sidebar:
 
 <font size="3" >部分表情包展示</font>
 
-<img src="images/开学季3_光明正大的学习.gif" width="100"/>
-
-<img src="images/开学季8_祖国的花朵.gif" width="100"/>
-
-<img src="images/开学季10_狂补作业.gif" width="100"/>
-
-
-
-<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91.gif" width = "100" height = "100" div align=left />
-
-<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A38_%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5.gif" width = "100" height = "100" div align=left />
-
-<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A33_%E5%85%89%E6%98%8E%E6%AD%A3%E5%A4%A7%E7%9A%84%E5%AD%A6%E4%B9%A0.gif" width = "100" height = "100" div align=left />
+<img src="images/开学季3_光明正大的学习.gif" width="100"/><img src="images/开学季8_祖国的花朵.gif" width="100"/><img src="images/开学季10_狂补作业.gif" width="100"/>
 
 - 海报发布
 
 自2019年8月～12月，发布海报33张，其中朋友圈和抖音落地页海报6张，品牌推广类海报3张，节气类海报8张，节日类海报16张。
 
-![avatar](images/20190018.png)
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分节点海报</font>
+
+<img src="images/20199987.png" width="800"/>
 
 - 稿件发布
 
-![avatar](images/20190019.png)
+<img src="images/20199988.png" width="800"/>
 
 ## <font size="4" >3.5 自媒体数据增长</font>
 
 - 对公司现有的自媒体账号（火花学院服务号、火花名师汇订阅号、微博火花官方、抖音火花学院、爱奇艺火花学院、优酷火花学院、腾讯火花学院）进行重新定位，以目标用户为导向，输出传播内容。
 
-![avatar](images/20190020.png)
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;火花学院抖音号</font>
+
+<img src="images/20199986.png" width="300"/>
 
 - 阅读量排名前五文章
 
@@ -159,25 +151,32 @@ sidebar:
 
 - 2019年，主要通过双微活动推广，增强与粉丝之间的粘性及互动。
 
-![avatar](images/20190021.png)
+<img src="images/20199112.png" width="400"/>
+
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分活动海报</font>
+
+<img src="images/20199113.png" width="800"/>
 
 ## <font size="4" >3.6 公开课覆盖范围扩大</font>
 
 - 12省65节，一等奖获奖率64%。
 
-![avatar](images/20190022.png)
+<img src="images/20190022.png" width="600"/>
 
 # <font size="5" color="gray">四、项目制运行良好</font>
 
 ## <font size="4" >4.1 组织架构形成</font>
 
-![avatar](images/20190033.png)
+<img src="images/20199114.png" width="400"/>
 
 ## <font size="4" >4.2 整体结题顺利</font>
 
-- 2019年立项33个，完成结题25个，结题率81%（不含冻结项目）。
+- 2019年立项33个，完成结题29个，结题率81%（不含冻结项目）。
 
-![avatar](images/20190024.png)
+<img src="images/20199983.png" width="800"/>
+
+## <font size="4" >4.3 优秀项目颁奖</font>
+
 
 
 
