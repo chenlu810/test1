@@ -19,7 +19,7 @@ sidebar:
 
 - 2019年自研素材（微件、3d、视频）2181个，较上年（424）增长414%。
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分科目自研素材新增&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分类型自研素材新增</font>
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分科目自研素材新增&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分类型自研素材新增</font>
 
 
 <img src="images/20199002.png" width="800"/>
@@ -32,7 +32,7 @@ sidebar:
 
 “课程“是以打造以教学设计为核心的课程体系，其丰富教学内容形式，为实现教学闭环提供完整的解决方案。
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程结构&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程示例</font>
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程结构&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程示例</font>
 
 <img src="images/20199991.png" width="800"/>
 
@@ -50,33 +50,38 @@ sidebar:
 
 - 将火花资源页面嵌入到第三方产品，比如戴特备课助手，智能大屏等，与第三方形成资源+工具产品矩阵，共同提升产品竞争力，达到互利共赢目的。
 
-![avatar](images/20190004.png)
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;戴特备课助手集成页面</font>
+
+<img src="images/20199992.png" width="800"/>
 
 ## <font size="4" >2.3 新产品形式探索</font>
 
 - 火花闪现：web版编辑器，为教师教学创作提供更随身、轻便的解决方案。
 
-![avatar](images/20190005.png)
+<img src="images/20199994.png" width="800"/>
 
 - 火花学院PowerPoint插件：更好的适应教师备课习惯。   
 
-![avatar](images/20190006.png)
+<img src="images/20199993.png" width="800"/>
 
 - 火花书屋：七本火花数字教参独立上架App Store。
 
-![avatar](images/20190007.png)
+<img src="images/20199995.png" width="400"/>
 
 ## <font size="4" >2.4 新增内容生产工具</font>
 
 - 新增多种学科素材制作工具，包括画廊，交互式图像，图像切换等，既为老师自主创作提供方便，也为素材开发提供标准化工具，提升效率。
 
-![avatar](images/20190008.png)
+<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;画廊、知识分类、弹出项
+</font>
+
+<img src="images/20199996.png" width="800"/>
 
 ## <font size="4" >2.5 PBL学习单元上线</font>
 
 - 火花学院在2019年与合肥市包河区生物教研组合作，打造一款线上项目式学习产品——物种的遗传。它通过让学生自主探究，培育一条自己喜欢的狗，从而促进学生回顾和应用遗传学相关知识。
 
-![avatar](images/20190009.png)
+<img src="images/20199997.png" width="800"/>
 
 # <font size="5" color="gray">三、运营框架体系建成</font>
 
