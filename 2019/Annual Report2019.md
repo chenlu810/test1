@@ -105,12 +105,19 @@ sidebar:
 
 <font size="3" >部分表情包展示</font>
 
+<img src="images/开学季3_光明正大的学习.gif" width="100"/>
+
+<img src="images/开学季8_祖国的花朵.gif" width="100"/>
+
+<img src="images/开学季10_狂补作业.gif" width="100"/>
+
+
+
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91.gif" width = "100" height = "100" div align=left />
 
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A38_%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5.gif" width = "100" height = "100" div align=left />
 
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A33_%E5%85%89%E6%98%8E%E6%AD%A3%E5%A4%A7%E7%9A%84%E5%AD%A6%E4%B9%A0.gif" width = "100" height = "100" div align=left />
-</div>
 
 - 海报发布
 
