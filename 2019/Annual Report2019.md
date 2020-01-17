@@ -9,15 +9,11 @@ sidebar:
   nav: 2018
 ---
 
-<bro/><bro/>
-
-<bro/><bro/><bro/><bro/>
-
-
-
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png" width = "800" div align=left />
 
-<bro/><bro/>
+
+
+
 
 
 # <font size="5" color="gray">一、自有内容生态形成</font>
@@ -111,7 +107,9 @@ sidebar:
 <font size="3" >部分表情包展示</font>
 
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91.gif" width = "100" height = "100" div align=left />
+
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A38_%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5.gif" width = "100" height = "100" div align=left />
+
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/%E5%BC%80%E5%AD%A6%E5%AD%A33_%E5%85%89%E6%98%8E%E6%AD%A3%E5%A4%A7%E7%9A%84%E5%AD%A6%E4%B9%A0.gif" width = "100" height = "100" div align=left />
 </div>
 
