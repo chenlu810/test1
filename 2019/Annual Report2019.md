@@ -9,6 +9,8 @@ sidebar:
   nav: 2018
 ---
 
+<div align=left><img src="images/20199001.png" width="800"/></div>
+
 
 
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png"  width="800" >
