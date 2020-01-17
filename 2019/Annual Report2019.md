@@ -9,11 +9,10 @@ sidebar:
   nav: 2018
 ---
 
-<div align=left><img src="images/20199001.png" width="800"/></div>
 
 
 
-
+<img src="images/20199001.png" width="800"/>
 
 
 # <font size="5" color="gray">一、自有内容生态形成</font>
