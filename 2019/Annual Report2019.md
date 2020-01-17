@@ -13,7 +13,7 @@ sidebar:
 
 <bro/><bro/><bro/><bro/>
 
-<p><img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png" width = "800" div align=left /><p>
+
 
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png" width = "800" div align=left />
 
