@@ -19,7 +19,7 @@ sidebar:
 
 - 2019年自研素材（微件、3d、视频）2181个，较上年（424）增长414%。
 
-<font size="2" >2018、2019年分科目自研素材新增                         2018、2019年分类型自研素材新增</font>
+<font size="2" color="gray">&nbsp；&nbsp；&nbsp；&nbsp；2018、2019年分科目自研素材新增 &nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；2018、2019年分类型自研素材新增</font>
 
 
 <img src="images/20199002.png" width="800"/>
