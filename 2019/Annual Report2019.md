@@ -16,6 +16,11 @@ sidebar:
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png" width = "800" div align=left />
 
 
+
+<div align="left">
+<img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png" height="800" >
+</div>
+
 <bro/><bro/>
 
 
