@@ -15,7 +15,9 @@ sidebar:
 
 <img src="https://github.com/Xiyue-team/doc_monthlyreport/blob/master/2019/images/20199001.png" width = "800" div align=left />
 
+
 <bro/><bro/>
+
 
 # <font size="5" color="gray">一、自有内容生态形成</font>
 
