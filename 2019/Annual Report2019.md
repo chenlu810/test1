@@ -177,11 +177,11 @@ sidebar:
 
 ## <font size="4" >4.3 优秀项目颁奖</font>
 
-<font color="gray">** 优秀项目金奖： ** </font>**  <font color="orange"> ** 初中生物  ** </font>
-<font color="gray">** 优秀项目银奖： ** </font> ** <font color="orange"> ** 初中化学、第三方嵌入式界面与火花书屋、火花工具库2.0  ** </font>
-<font color="gray">** 优秀项目服务组： ** </font> ** <font color="orange"> ** 质量保障部 ** </font>
-<font color="gray">** 优秀项目-技术创新： ** </font> ** <font color="orange"> ** 窄带高清与视频保护、PBL ** </font>
-<font color="gray">** 优秀项目-效率执行： ** </font> ** <font color="orange"> ** phet、课件模板 ** </font>
+<font color="gray">**优秀项目金奖：** </font>**<font color="orange">**初中生物** </font>
+<font color="gray">**优秀项目银奖：** </font> **<font color="orange">**初中化学、第三方嵌入式界面与火花书屋、火花工具库2.0** </font>
+<font color="gray">**优秀项目服务组：** </font>**<font color="orange">**质量保障部**</font>
+<font color="gray">**优秀项目-技术创新：**</font>**<font color="orange">**窄带高清与视频保护、PBL**</font>
+<font color="gray">**优秀项目-效率执行：**</font>**<font color="orange">**phet、课件模板**</font>
 
 
 
