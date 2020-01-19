@@ -181,15 +181,15 @@ sidebar:
 
 **<font color="gray">优秀项目（综合）：</font>**
 
-**<font color="orange">金奖：初中生物</font>**
+**<font color="orange">金奖&nbsp;&nbsp;-&nbsp;&nbsp;初中生物</font>**
 
-**<font color="orange">银奖：初中化学、第三方嵌入式界面与火花书屋、火花工具库2.0</font>**
+**<font color="orange">银奖&nbsp;&nbsp;-&nbsp;&nbsp;初中化学、第三方嵌入式界面与火花书屋、火花工具库2.0</font>**
 
-**<font color="gray">优秀项目（专项）</font>**
+**<font color="gray">优秀项目（专项）：</font>**
   
-**<font color="orange">技术创新：窄带高清与视频保护、PBL</font>**
+**<font color="orange">技术创新&nbsp;&nbsp;-&nbsp;&nbsp;窄带高清与视频保护、PBL</font>**
 
-**<font color="orange">效率执行：phet、课件模板</font>**
+**<font color="orange">效率执行&nbsp;&nbsp;-&nbsp;&nbsp;phet、课件模板</font>**
 
 **<font color="gray">优秀项目服务组：</font>**
 
@@ -197,11 +197,11 @@ sidebar:
 
 - 个人类
 
-**<font color="gray">优秀项目经理</font>**
+**<font color="gray">优秀项目经理：</font>**
 
-**<font color="orange">金奖：窦发</font>**
+**<font color="orange">金奖&nbsp;&nbsp;-&nbsp;&nbsp;窦发</font>**
 
-**<font color="orange">银奖：张明申、项性杰、沈阳</font>**
+**<font color="orange">银奖&nbsp;&nbsp;-&nbsp;&nbsp;张明申、项性杰、沈阳</font>**
 
 **<font color="gray">优秀项目成员（综合）：</font>**
 
@@ -209,9 +209,9 @@ sidebar:
 
 **<font color="gray">优秀项目成员（专项）：</font>**
 
-**<font color="orange">创意：杨晓艳、侯媛媛、高磊、秦怡</font>**
+**<font color="orange">创意&nbsp;&nbsp;-&nbsp;&nbsp;杨晓艳、侯媛媛、高磊、秦怡</font>**
 
-**<font color="orange">攻坚：李浩、张鑫、廖伟业、方朝阳</font>**
+**<font color="orange">攻坚&nbsp;&nbsp;-&nbsp;&nbsp;李浩、张鑫、廖伟业、方朝阳</font>**
 
 **<font color="gray">优秀实习生：</font>**
 
