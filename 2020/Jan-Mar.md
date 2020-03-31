@@ -11,7 +11,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/2020030101.png)
+![avatar](images/202003010101.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -131,7 +131,7 @@ sidebar:
 
 截至目前，2020年已立项项目共12个，包括内容产品类项目8个、软件产品类项目2个、研究类项目2个，项目进程见下
  
-![avatar](images/20200315.png)
+![avatar](images/2020031501.png)
 
 
 
