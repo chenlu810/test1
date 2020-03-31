@@ -45,7 +45,9 @@ sidebar:
 
 - 增加页面功能：官网页脚增加友情链接、教具页面增加筛选模块，为用户使用过程中的查找素材过程提供便利
 
-![avatar](images/20200300801.png)![avatar](images/202003008.png)
+![avatar](images/2020030801.png)
+
+![avatar](images/20200308.png)
 
 ## <font size="4" >2.3 火花书屋新书上架 功能更新</font>
 
