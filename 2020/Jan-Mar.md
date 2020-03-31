@@ -65,8 +65,6 @@ sidebar:
 
 ![avatar](images/2020030902.png)
 
-![avatar](images/20200309.png)
-
 ## <font size="4" >2.3 火花学院APP3.0 灰度发布</font>
 
 # <font size="5" color="gray">三、运营支撑</font>
