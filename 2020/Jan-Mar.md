@@ -106,14 +106,20 @@ sidebar:
 [到底是孩子不听话还是父母不好当？疫情里的亲情危机](https://mp.weixin.qq.com/s/nODxoR2f1vPaLOh9f1xUHg)|	1114|
 [火花学院支撑录播课上线各省市教育平台](https://mp.weixin.qq.com/s/cNbYWrz5lMg9voMlaWBy-Q)|	335|
 
-- 各大视频网站共上传视频1900+，总播放量30w+
+- 四大视频网站（爱奇艺、B站、腾讯、优酷）共上传视频1900+，总播放量30w+，总播放量（爱奇艺除外）排名前十的视频见下
 
-| 网站名称 | 上传视频量 | 播放量|
+| 视频名称 | 播放量 | 播放网站|
 |:-------------:|:------:|:-----:|
-|爱奇艺|900|10.5w|
-|B站|393|10.3w|
-|腾讯|329|10.0w|
-|优酷|310|1.70w|
+|[【生物】蝗虫](https://page.om.qq.com/page/OkXD86T61FYhyyaOfqogj3Mw0)|26464|腾讯|
+|[【生物】食物的消化过程](https://www.bilibili.com/video/BV1Z741157an)|22882|B站|
+|[【地理】中国主要的工业基地](https://www.bilibili.com/video/BV1n7411g7ej)|8140|B站|
+|[【生物】血液循环系统](https://www.bilibili.com/video/BV1o741157kv)|5000|B站|
+|[【生物】DNA分子的复制过程](https://www.bilibili.com/video/BV1o741157kv)|3940|B站|
+|[【生物】胎儿的脐带和胎盘](https://www.bilibili.com/video/BV1o741157ud)|3916|B站|
+|[【生物】尿液的形成](https://www.bilibili.com/video/BV1f7411575C)|3880|B站|
+|[【生物】显微镜的使用](https://www.bilibili.com/video/BV15741157nN)|3762|B站|
+|[【生物】模拟隔膜运动](https://www.bilibili.com/video/BV1Z741157xZ)|3030|B站|
+|[【生物】噬菌体侵染细菌](https://www.bilibili.com/video/BV14E41137Zq)|2166|B站|
 
 扫描下列二维码可直接观看各大网站火花学院视频
 
@@ -127,7 +133,7 @@ sidebar:
 
 ## 2020年已立项项目
 
-2020年已立项项目详情请点击[2019上半年立项项目进展](https://xiyue-team.github.io/doc_monthlyreport/project/Dec#2019%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A1%B9%E7%9B%AE%E8%AF%A6%E6%83%85)。
+2020年已立项项目进程见下
  
 ![avatar](images/20200315.png)
 
