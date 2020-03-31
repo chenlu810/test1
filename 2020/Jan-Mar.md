@@ -83,7 +83,9 @@ sidebar:
 
 - 双方在教育资源及教学服务等方面进行深度合作，为广大师生提供更丰富的教育教学资源，以满足教育信息化大趋势下的资源新需求
 
-![avatar](images/20200311.png)
+合作资源详情[请点击]（http://www.zxxk.com/organ/267/）
+
+![avatar](images/20200314.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
