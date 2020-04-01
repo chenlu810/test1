@@ -109,7 +109,7 @@ sidebar:
 |[【生物】食物的消化过程](https://www.bilibili.com/video/BV1Z741157an)|22882|B站|
 |[【地理】中国主要的工业基地](https://www.bilibili.com/video/BV1n7411g7ej)|8140|B站|
 |[【生物】血液循环系统](https://www.bilibili.com/video/BV1o741157kv)|5000|B站|
-|[【生物】DNA分子的复制过程](https://www.bilibili.com/video/BV1o741157kv)|3940|B站|
+|[【生物】DNA分子的复制过程](https://www.bilibili.com/video/BV1bE411376D)|3940|B站|
 |[【生物】胎儿的脐带和胎盘](https://www.bilibili.com/video/BV1o741157ud)|3916|B站|
 |[【生物】尿液的形成](https://www.bilibili.com/video/BV1f7411575C)|3880|B站|
 |[【生物】显微镜的使用](https://www.bilibili.com/video/BV15741157nN)|3762|B站|
