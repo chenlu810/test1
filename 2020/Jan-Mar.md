@@ -6,7 +6,7 @@ key: 2020-Jan-Mar
 aside:
   toc: true
 sidebar:
-  nav: 2018
+  nav: 
 ---
 
 <bro/><bro/>
