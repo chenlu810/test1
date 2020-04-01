@@ -28,8 +28,7 @@ header:
         url:    /2018/Dec
       - title:  2018年报
         url:    /2018/Annual Report  
-        
- 2018:    
+           
   - title:      2019年
     children:
       - title:  1月
@@ -56,8 +55,7 @@ header:
         url:    /2019/Dec
       - title:  2019年报
         url:    /2019/Annual Report   
-        
- 2018:
+
    - title:      2020年
       children:
       - title:  1-3月工作成果
