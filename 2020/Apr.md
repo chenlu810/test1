@@ -74,59 +74,25 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑8次。
+常规公开课支撑4次。
 
-![avatar](images/20200310.png)
-
-## <font size="4" >3.2 品牌合作</font>
-
-- 火花学院与教育行业头部内容资源站学科网正式达成资源合作，自2月在学科网上线以来，火花学院课件、视频下载总量达23442次。
-
-- 详情页[请点击](http://www.zxxk.com/organ/267/)。
-
-![avatar](images/20200314.png)
+![avatar](images/202004008.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花学院服务号“火花学院”关注总人数2879人，1月-3月新增442人，发表文章12篇，总阅读量37550次，总转发量2910次。
+- 火花学院服务号“火花学院”关注总人数3008人，4月新增129人，发表文章5篇，总阅读量14402次，总转发量1174次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[2019，不止所见！](https://mp.weixin.qq.com/s/4fLofpuI_cQiNm9Xiu-i_A)|	684|
-[拖延症晚期还有救吗？](https://mp.weixin.qq.com/s/-SQoOheZb5vKNKthAzd68g)|	1023|
-[官方 火花学院2019年度报告重磅发布](https://mp.weixin.qq.com/s/gkr2eSMAioE38leC9ej-yg)|	543|
-[除了你，还能和谁擦出火花！](https://mp.weixin.qq.com/s/dstIToTtrFKgrKLRAe3STw)|	412|
-[超长假期来了，孩子宅在家里都能干点啥？](https://mp.weixin.qq.com/s/8s22HN3PexTE0oMy323Vfg)|	850|
-[闹元宵 猜灯谜 元宵礼包带回家](https://mp.weixin.qq.com/s/AV7eKx8MDnZLpo2ePFxa9A)|	285|
-[火花学院微课全平台免费上线啦！](https://mp.weixin.qq.com/s/4kj6ofPltC6lywC2lUUWUQ)|4367|
-[停课不停学 轻松掌握重难点](https://mp.weixin.qq.com/s/pBfdBw8V5jlxYL4qIE4__A)|	1751|
-[强强联手 火花学院与学科网正式达成资源合作协议](https://mp.weixin.qq.com/s/oax-1ziaOgueOnS-J6towQ)|	838|
-[莫名被百万人围观，这些B站评论让我瞬间懵了](https://mp.weixin.qq.com/s/L1SwrHHWjD2v8sLGh0fvHA)|	905|
-[到底是孩子不听话还是父母不好当？疫情里的亲情危机](https://mp.weixin.qq.com/s/nODxoR2f1vPaLOh9f1xUHg)|	1114|
-[火花学院支撑录播课上线各省市教育平台](https://mp.weixin.qq.com/s/cNbYWrz5lMg9voMlaWBy-Q)|	335|
+[专栏呈现 火花学院资源上线广州智慧教育公共服务平台](https://mp.weixin.qq.com/s/4fLofpuI_cQiNm9Xiu-i_A)|	281|
+[今天没有推送，千万不要点开！](https://mp.weixin.qq.com/s/-SQoOheZb5vKNKthAzd68g)|	565|
+[高颜值？硬实力！看火花学院如何在学科网C位出道！](https://mp.weixin.qq.com/s/gkr2eSMAioE38leC9ej-yg)|	345|
+[今日清明，别怕，我们来聊聊死亡](https://mp.weixin.qq.com/s/dstIToTtrFKgrKLRAe3STw)|	2049|
+[那些父母买不起学区房的孩子注定输了吗？](https://mp.weixin.qq.com/s/8s22HN3PexTE0oMy323Vfg)|	1107|
 
-- 四大视频网站（爱奇艺、B站、腾讯、优酷）共上传视频1900+，总播放量30w+，总播放量（优酷除外）排名前十的视频见下
+- 火花学院订阅号“火花名师汇”关注总人数165人，发表文章11篇，阅读量8122次，阅读人数914人
 
-| 视频名称 | 播放量 | 播放网站|
-|:-------------|:------:|:-----:|
-|[【生物】蝗虫](https://page.om.qq.com/page/OkXD86T61FYhyyaOfqogj3Mw0)|26464|腾讯|
-|[【生物】食物的消化过程](https://www.bilibili.com/video/BV1Z741157an)|22882|B站|
-|[【地理】中国主要的工业基地](https://www.bilibili.com/video/BV1n7411g7ej)|8140|B站|
-|[【生物】血液循环系统](https://www.bilibili.com/video/BV1o741157kv)|5000|B站|
-|[【生物】DNA分子的复制过程](https://www.bilibili.com/video/BV1bE411376D)|3940|B站|
-|[【生物】胎儿的脐带和胎盘](https://www.bilibili.com/video/BV1o741157ud)|3916|B站|
-|[【生物】尿液的形成](https://www.bilibili.com/video/BV1f7411575C)|3880|B站|
-|[【生物】显微镜的使用](https://www.bilibili.com/video/BV15741157nN)|3762|B站|
-|[【生物】模拟隔膜运动](https://www.bilibili.com/video/BV1Z741157xZ)|3030|B站|
-|[【生物】噬菌体侵染细菌](https://www.bilibili.com/video/BV14E41137Zq)|2166|B站|
-
-扫描下列二维码可直接观看各大网站火花学院视频
-
-![avatar](images/20200313.png)
-
-- 火花学院订阅号“火花名师汇”关注总人数121人，发表文章23篇，阅读量15248次，阅读人数10774人
-
-- 火花微博“火花官方”发表微博28篇，阅读总数12080
+- 火花微博“火花官方”发表微博17篇，阅读总数3103
 
 # <font size="5" color="gray">四、项目进展</font>
 
