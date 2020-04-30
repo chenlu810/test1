@@ -12,13 +12,13 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/202004003.png)
+![avatar](images/2020040033.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 4月新上架素材102个，课件164个。
+- 4月新上架素材102个微课377个。
 
 - 根据市场需求和精品内容标准，4月下架223个有版权争议的视频素材。
 
