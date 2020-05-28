@@ -18,21 +18,19 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 4月新上架素材102个、微课377个。
+- 5月新上架素材58个、微课96个。
 
-- 根据市场需求和精品内容标准，4月下架288个有版权争议的视频素材。
+- 根据市场需求和精品内容标准，5月下架84个有版权争议的视频素材。
 
-![avatar](images/2020040101.png)
+![avatar](images/20200502.png)
 
 部分素材展示
 
-![avatar](images/20200402.png)
+![avatar](images/20200503.png)
 
-![avatar](images/20200403.png)
+![avatar](images/20200504.png)
 
-![avatar](images/20200404.png)
-
-![avatar](images/20200405.png)
+![avatar](images/20200505.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
@@ -92,25 +90,17 @@ sidebar:
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花学院服务号“火花学院”关注总人数3008人，4月新增129人，发表文章5篇，总阅读量14402次，总转发量1174次。
+- 火花学院服务号“火花学院”关注总人数3150人，5月新增142人，发表文章3篇，总阅读量7558次，总转发量558次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[今日清明，别怕，我们来聊聊死亡](https://mp.weixin.qq.com/s/tYfeexzjWgDn3KLrwi47WA)|	2049|
-[那些父母买不起学区房的孩子注定输了吗？](https://mp.weixin.qq.com/s/P1IgltD_aVFAlKjP4br8dA)|	1107|
-[今天没有推送，千万不要点开！](https://mp.weixin.qq.com/s/WYiBy9fo31wBhOkr5hJBKg)|	565|
-[高颜值？硬实力！看火花学院如何在学科网C位出道！](https://mp.weixin.qq.com/s/FS9DdIUUyHAD810A48C1Sg)|	345|
-[专栏呈现 火花学院资源上线广州智慧教育公共服务平台](https://mp.weixin.qq.com/s/K454tdaRhYqcuJWlJHAiAA)|	281|
+[不骗你！爱劳动的孩子就业率提高15倍，收入高出20%](https://mp.weixin.qq.com/s/gYcDGVtv-GT3quI7-F2_3Q)|	1130|
+[母亲节|全天下的妈都是一样的！](https://mp.weixin.qq.com/s/IX7nunHpPC-JeGNP4vBJRQ)|	1154|
+[光阴“4”箭，我还是从前那个少年！](https://mp.weixin.qq.com/s/NPJFGLJwh4BbT4BMMfJVXA)|	422|
 
-- 火花学院订阅号“火花名师汇”关注总人数165人，发表文章11篇，阅读量8122次，阅读人数914人。
+- 火花学院订阅号“火花名师汇”关注总人数190人，发表文章10篇，阅读量7168次，阅读人数2466人。
 
-- 火花微博“火花官方”发表微博17篇，阅读总数3103。
-
-- 爱奇艺、腾讯、b站三大网站播放量前三的视频（【生物】蝗虫、【生物】食物的消化过程、【地理】化石是如何形成的），单视频播放量达30000次。
-
-# <font size="5" color="gray">四、示范校合作</font>
-
-火花学院与大连三十六中展开科学可视化资源合作：将通过开展定期联合教研等方式，针对高三物理一轮复习中存在的重难点进行梳理总结，研发相应的科学可视化素材，解决实际教学中的困难点。
+- 火花微博“火花官方”发表微博18篇，阅读总数3080。
 
 # <font size="5" color="gray">五、项目进展</font>
 
