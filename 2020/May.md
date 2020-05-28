@@ -34,7 +34,7 @@ sidebar:
 
 # <font size="5" color="gray">二、软件开发</font>
 
-## <font size="4" >2.1 “火花学院”官网首页改版灰度发布</font>
+## <font size="4" >2.1 “火花学院”官网改版上线</font>
 
 - 预计5月20日正式上线；
 
