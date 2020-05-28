@@ -84,9 +84,9 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑4次。
+常规公开课支撑1次。
 
-![avatar](images/202004008.png)
+![avatar](images/20200510.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
