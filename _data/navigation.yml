@@ -62,6 +62,8 @@ header:
         url:    /2020/J-M
       - title:  4月
         url:    /2020/Apr
+      - title:  5月
+        url:    /2020/May
         
 project:
   - title:      2019年项目公示
@@ -81,6 +83,11 @@ project:
       - title:  12月项目进度
         url:    /project/Dec
         
+      - title:  项目详情
+        url:    /project/2020
+      - title:  5月项目进度
+        url:    /project/May
+            
 layouts:
   - title: Layouts
     children:
