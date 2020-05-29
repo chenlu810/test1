@@ -80,7 +80,7 @@ sidebar:
 
 5月结题项目1个（初中化学课程项目建设）、终止建设项目1个（小学科学产品调研与设计），截至目前，在建项目共12个。
 
-项目进程见下，详情请点击[2019年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/May.md)。
+项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/May.md)。
  
 ![avatar](images/20200511.png)
 
