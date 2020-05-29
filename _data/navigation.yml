@@ -82,7 +82,9 @@ project:
         url:    /project/Nov
       - title:  12月项目进度
         url:    /project/Dec
-        
+   
+  - title:      2020年项目公示
+    children:
       - title:  项目详情
         url:    /project/2020
       - title:  5月项目进度
