@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/20200501.png)
+![avatar](images/202005001.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -82,7 +82,7 @@ sidebar:
 
 - 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/May.md)。
  
-![avatar](images/202005001.png)
+![avatar](images/20200511.png)
 
 
 
