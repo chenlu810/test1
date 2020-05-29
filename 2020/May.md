@@ -42,7 +42,7 @@ sidebar:
 
 ![avatar](images/20200507.png)
 
-## <font size="4" >2.3 火花学院PPT插件v2.0.1</font>
+## <font size="4" >2.3 火花学院PPT插件新版本发布</font>
 
 - 火花学院PPT插件v2.0.1正式发布；
 
@@ -82,7 +82,7 @@ sidebar:
 
 项目进程见下。
  
-![avatar](images/202005011.png)
+![avatar](images/20200511.png)
 
 
 
