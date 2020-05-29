@@ -74,13 +74,13 @@ sidebar:
 
 - 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达70w。
 
-# <font size="5" color="gray">五、项目进展</font>
+# <font size="5" color="gray">四、项目进展</font>
 
 ## 2020年已立项项目
 
 5月结题项目1个（初中化学课程项目建设）、终止建设项目1个（小学科学产品调研与设计），截至目前，在建项目共12个。
 
-项目进程见下。
+项目进程见下，详情请点击[2019年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/May.md)。
  
 ![avatar](images/20200511.png)
 
