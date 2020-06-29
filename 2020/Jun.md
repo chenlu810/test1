@@ -52,7 +52,7 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑1次。
+常规公开课支撑9次。
 
 ![avatar](images/20200610.png)
 
