@@ -77,7 +77,7 @@ sidebar:
 
 ## 2020年已立项项目
 
-- 6月结题项目1个（PPT插件-备课助手合并版），截至目前，在建项目共11个。
+- 6月结题项目1个（PPT插件-备课助手合并版），截至目前，在建项目共10个。
 
 - 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/May.md)。
  
