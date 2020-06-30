@@ -20,7 +20,7 @@ sidebar:
 
 - 6月新上架素材383个、微课144个。
 
-![avatar](images/20200602.png)
+![avatar](images/202006002.png)
 
 部分素材展示
 
