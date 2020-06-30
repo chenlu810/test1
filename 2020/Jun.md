@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/202006001.png)
+![avatar](images/20200601.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -78,7 +78,7 @@ sidebar:
 
 常规公开课支撑9次。
 
-![avatar](images/20200610.png)
+![avatar](images/202006010.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
