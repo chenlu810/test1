@@ -78,7 +78,7 @@ sidebar:
 
 常规公开课支撑9次。
 
-![avatar](images/202006010.png)
+![avatar](images/2020060010.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
