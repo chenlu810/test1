@@ -56,9 +56,9 @@ sidebar:
 
 - 素材列表增加“偏好设置”快捷⼊⼝；
 
-- “我的资源”界⾯优化，提高用户体验感；
-
 ![avatar](images/2020060009.png)
+
+- “我的资源”界⾯优化，提高用户体验感；
 
 ## <font size="4" >2.3 DMS数据营销系统</font>
 
@@ -86,10 +86,10 @@ sidebar:
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[焕新！火花学院3.0正式发布](https://mp.weixin.qq.com/s/vGPv50HNoCbi-EoDst7nYw)|	796|
-[写给大朋友们的儿童节](https://mp.weixin.qq.com/s/h8JqDxDqmKibc3dbtzRxfQ)|	494|
 [复课后，他们选择自杀。](https://mp.weixin.qq.com/s/yljMO7-EggoHltuQA3yPkg)|	1346|
+[焕新！火花学院3.0正式发布](https://mp.weixin.qq.com/s/vGPv50HNoCbi-EoDst7nYw)|	796|
 [父亲节扎心之问：孩子为什么更喜欢妈妈](https://mp.weixin.qq.com/s/tjqEIoBWbhHAX9pSiu0Qew)|	694|
+[写给大朋友们的儿童节](https://mp.weixin.qq.com/s/h8JqDxDqmKibc3dbtzRxfQ)|	494|
 
 - 火花学院订阅号“火花名师汇”关注总人数203人，发表文章6篇，阅读量7254次，阅读人数2642人。
 
