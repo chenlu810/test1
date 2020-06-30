@@ -70,7 +70,7 @@ sidebar:
 
 - 素材列表增加偏好快捷⼊⼝；
 
-![avatar](images/20200609.png)
+![avatar](images/202006009.png)
 
 # <font size="5" color="gray">三、运营支撑</font>
 
