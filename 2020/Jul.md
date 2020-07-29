@@ -75,13 +75,13 @@ sidebar:
 [雨҈雨҈雨҈雨҈我҈被҈淹҈了҈雨҈雨҈雨҈雨҈](https://mp.weixin.qq.com/s/RpPWjrYvbobpx-xBwkH7zw)|	819|
 [科普进校园 火花学院公开课亮相合肥七中首届校园科技节](https://mp.weixin.qq.com/s/ro1PN5L9p3hHut_f4H5PCg)|	482|
 [高考日记 | 为了“赢”，你不知道他们有多拼](https://mp.weixin.qq.com/s/FIp_s_2z_jXRuArxtrvp9Q)|	407|
-[【火花专题】每周上新 先睹为快](https://mp.weixin.qq.com/s/fc5ldzcAP1VTYKMOpabQmw)|	202|
+[“火花专题”每周上新 先睹为快](https://mp.weixin.qq.com/s/fc5ldzcAP1VTYKMOpabQmw)|	202|
 
-- 火花学院订阅号“火花名师汇”关注总人数212人，发表文章5篇，阅读量7254次，阅读人数2642人。
+- 火花学院订阅号“火花名师汇”关注总人数212人，发表文章5篇，阅读量2182次，阅读人数1429人。
 
-- 火花微博“火花官方”发表微博11篇，阅读总数12233。
+- 火花微博“火花官方”发表微博20篇，阅读总数1.1w。
 
-- 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达86w。
+- 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达100w。
 
 # <font size="5" color="gray">四、项目进展</font>
 
