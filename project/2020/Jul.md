@@ -27,7 +27,7 @@ sidebar:
 |XY-2020-nr10   |物质科学课程建设1.0	|2020.04.01 — 2020.10.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=20349079)|
 |XY-2020-yj01   |科学可视化在教学应用中的系列问题研究	|2020.03.16 — 2020.06.30|终止|
 |XY-2020-yj02   |化学课程建设与应用	|2020.03.20 — 2020.07.31|[进行中](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=20349038)|
-|XY-2020-rj01   |PPT插件（备课助手合并版）	|2020.02.01 — 2020.06.30|[按期结题]（http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=20349448）|
+|XY-2020-rj01   |PPT插件（备课助手合并版）	|2020.02.01 — 2020.06.30|[按期结题]（http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=20349448)|
 |XY-2020-rj02   |火花学院客户端	|2020.02.01 — 2020.08.31|进行中|
 
 
