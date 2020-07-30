@@ -38,9 +38,9 @@ sidebar:
 
 - 增加“素材权限验证”提示，便于对用户管理；
 
-![avatar](images/2020070004.png)
+![avatar](images/202007004.png)
 
-![avatar](images/2020070005.png)
+![avatar](images/202007005.png)
 
 ![avatar](images/20200706.png)
 
