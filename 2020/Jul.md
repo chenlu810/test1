@@ -42,13 +42,11 @@ sidebar:
 
 ![avatar](images/20200706.png)
 
-![avatar](images/20200707.png)
-
 ## <font size="4" >2.2 OMS机构看板系统V2.0</font>
 
 - 预计8月7日正式上线；
 
-![avatar](images/20200708.png)
+![avatar](images/20200707.png)
 
 ## <font size="4" >2.3 “CMS运营管理系统”功能新增及重构</font>
 
@@ -64,7 +62,7 @@ sidebar:
 
 常规公开课支撑5次。
 
-![avatar](images/20200709.png)
+![avatar](images/20200708.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
