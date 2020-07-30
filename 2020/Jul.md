@@ -91,4 +91,4 @@ sidebar:
 
 - 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jun.md)。
  
-![avatar](images/20200709.png)
+![avatar](images/202007009.png)
