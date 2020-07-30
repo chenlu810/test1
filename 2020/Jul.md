@@ -89,6 +89,6 @@ sidebar:
 
 - 7月共结题2个项目：包括提前结题项目1个（初中数学素材库建设2.0）、按期结题项目1个（小学数学素材库建设），截至目前，在建项目共8个。
 
-- 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jun.md)。
+- 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
  
 ![avatar](images/202007009.png)
