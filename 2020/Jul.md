@@ -38,11 +38,7 @@ sidebar:
 
 - 增加“素材权限验证”提示，便于对用户的素材使用权限进行鉴定；
 
-![avatar](images/202007004.png)
-
 ![avatar](images/202007005.png)
-
-![avatar](images/20200706.png)
 
 ## <font size="4" >2.2 OMS机构看板系统V2.0</font>
 
