@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/202007000.png)
+![avatar](images/2020070000.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -20,7 +20,7 @@ sidebar:
 
 - 7月新上架素材171个、微课115个。
 
-![avatar](images/20200701.png)
+![avatar](images/202007001.png)
 
 部分素材展示
 
