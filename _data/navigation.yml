@@ -66,6 +66,8 @@ header:
         url:    /2020/May
       - title:  6月
         url:    /2020/Jun
+      - title:  7月
+        url:    /2020/Jul  
         
 project:
   - title:      2019年项目公示
@@ -93,6 +95,8 @@ project:
         url:    /project/May
       - title:  6月项目进度
         url:    /project/Jun 
+      - title:  7月项目进度
+        url:    /project/Jul 
             
 layouts:
   - title: Layouts
