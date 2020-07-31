@@ -32,7 +32,7 @@ sidebar:
 
 # <font size="5" color="gray">二、软件开发</font>
 
-## <font size="4" >2.1 “火花学院客户端”VIP权限重构</font>
+## <font size="4" >2.1 “火花学院客户端”VIP重构</font>
 
 - 预计8月5日正式发布；
 
