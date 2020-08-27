@@ -56,9 +56,9 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑5次。
+常规公开课支撑8次。
 
-![avatar](images/20200708.png)
+![avatar](images/20200809.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
@@ -84,5 +84,5 @@ sidebar:
 
 - 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
  
-![avatar](images/202007009.png)
+![avatar](images/20200810.png)
 
