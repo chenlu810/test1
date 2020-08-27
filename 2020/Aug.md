@@ -110,7 +110,7 @@ sidebar:
 
 -截至目前，在建项目共8个。
 
-- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
+- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Aug.md)。
  
 ![avatar](images/20200810.png)
 
@@ -118,7 +118,7 @@ sidebar:
 
 -8月新立项项目4个。
 
-- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
+- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Aug.md)。
  
 ![avatar](images/20200811.png)
 
