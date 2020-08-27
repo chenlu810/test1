@@ -78,11 +78,19 @@ sidebar:
 
 # <font size="5" color="gray">四、项目进展</font>
 
-## 2020年已立项项目
+## 2020年上半年已立项项目
 
-- 7月共结题2个项目：包括提前结题项目1个（初中数学素材库建设2.0）、按期结题项目1个（小学数学素材库建设），截至目前，在建项目共8个。
+-截至目前，在建项目共8个。
 
-- 项目进程见下，详情请点击[2020年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
+- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
  
 ![avatar](images/20200810.png)
+
+## 2020年下半年已立项项目
+
+-8月新立项项目4个。
+
+- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Jul.md)。
+ 
+![avatar](images/20200811.png)
 
