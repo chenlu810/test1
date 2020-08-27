@@ -18,7 +18,7 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
--8月新上架素材  个、微课  个。
+- 8月新上架素材  个、微课  个。
 
 ![avatar](images/20200801.png)
 
