@@ -12,13 +12,13 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/2020080000.png)
+![avatar](images/20200800000.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 8月新上架素材11个(因版权问题下架51个)、课件上架25 个。
+- 8月新上架素材11个(因版权问题下架51个)。
 
 ![avatar](images/20200801.png)
 
