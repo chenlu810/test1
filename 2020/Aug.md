@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/2020080.png)
+![avatar](images/20200800.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -56,7 +56,7 @@ sidebar:
 
 - 增加数据统计优化，优化了首页、素材详情页埋点；
 
-## <font size="4" >2.2 火花学院桌面端、火花学院移动新版本上线</font>
+## <font size="4" >2.2 火花学院桌面端、火花学院移动端新版本上线</font>
 
 - 预计9月1日上线（包括火花学院桌面端v3.0.6、火花学院移动端v3.0.6、 火花学院ios端3.0.8）；
 
@@ -108,7 +108,7 @@ sidebar:
 
 ## 2020年上半年已立项项目
 
--截至目前，在建项目共8个。
+- 截至目前，在建项目共8个。
 
 - 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Aug.md)。
  
@@ -116,7 +116,7 @@ sidebar:
 
 ## 2020年下半年已立项项目
 
--8月新立项项目4个。
+- 2020年下半年项目建设工作已启动，8月新立项项目4个。
 
 - 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Aug.md)。
  
