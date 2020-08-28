@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/202008000.png)
+![avatar](images/2020080000.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -58,7 +58,7 @@ sidebar:
 
 ## <font size="4" >2.2 火花学院桌面端、火花学院移动端新版本上线</font>
 
-- 火花学院桌面端v3.0.6、火花学院移动端v3.0.6、 火花学院ios端3.0.8已上线；
+- 桌面端v3.0.6、移动端v3.0.6、 ios端3.0.8已上线；
 
 ## <font size="4" >2.3 “DMS”数据营销系统功能新增</font>
 
