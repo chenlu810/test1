@@ -12,21 +12,23 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/2020080000000.png)
+![avatar](images/20200900.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 8月新上架素材11个(因版权问题下架51个)。
+- 9月新上架素材  个(因版权问题下架  个)。
 
-![avatar](images/20200801.png)
+![avatar](images/20200901.png)
 
 部分素材展示
 
-![avatar](images/20200802.png)
+![avatar](images/20200902.png)
 
-![avatar](images/20200803.png)
+![avatar](images/20200903.png)
+
+![avatar](images/20200904.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
@@ -84,25 +86,25 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑8次。
+常规公开课支撑3次。
 
-![avatar](images/20200809.png)
+![avatar](images/20200914.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花学院服务号“火花学院”关注总人数3391人，8月新增87人，发表文章3篇，总阅读量6622次，总转发量408次。
+- 火花学院服务号“火花学院”关注总人数3643人，9月新增252人，发表文章3篇，总阅读量8680次，总转发量920次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[俗话说，不会用歌词科普的作词人不是一个好的歌手](https://mp.weixin.qq.com/s/jFJdaSFcaNh-CdJy8zVkxg)|	1015|
-[七夕｜文化人的土味情话图鉴，你能看懂几个？](https://mp.weixin.qq.com/s/Da4_l0nsTMoIRdxOT86UrQ)|	507|
-[有一种焦虑是，别人家的小孩都上了暑假补习班](https://mp.weixin.qq.com/s/y2Zux73Ic_T_WlVW3g5f8Q)|	247|
+[教师节｜送给老师的100分](https://mp.weixin.qq.com/s/8BpyMxnKZc_6OQxzBq02rg)|	718|
+[新书首发｜用技术让思维看得见](https://mp.weixin.qq.com/s/MwXJEAfyE2Sje9NROEIEmA)|	681|
+[军训迷惑行为大赏](https://mp.weixin.qq.com/s/_BVoK0TzDX4SgsJLW5FZgQ)|	319|
 
-- 火花学院订阅号“火花名师汇”关注总人数220人，发表文章4篇，阅读量2684次，阅读人数1805人。
+- 火花学院订阅号“火花名师汇”关注总人数238人，发表文章1篇，阅读量758次，阅读人数478人。
 
-- 火花微博“火花官方”发表微博15篇，阅读总数3.36w。
+- 火花微博“火花官方”发表微博10篇，阅读总数2.21ww。
 
-- 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达115w。
+- 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达140w。
 
 # <font size="5" color="gray">四、项目进展</font>
 
