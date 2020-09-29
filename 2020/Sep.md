@@ -110,17 +110,17 @@ sidebar:
 
 ## 2020年上半年已立项项目
 
-- 截至目前，在建项目共8个。
+- 9月共结题2个项目：其中按期结题项目1个（模型1.0）、延期结题项目1个（科学可视化真题集-《立体几何》），截至目前，在建项目共6个。
 
-- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Aug.md)。
+- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Sep.md)。
  
-![avatar](images/20200810.png)
+![avatar](images/20200915.png)
 
 ## 2020年下半年已立项项目
 
-- 2020年下半年项目建设工作已启动，8月新立项项目4个。
+- 9月按期结题项目2个：火花课程包方案设计、高中数学课程包，截至目前，在建项目共6个。
 
-- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Aug.md)。
+- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Sep.md)。
  
-![avatar](images/20200811.png)
+![avatar](images/20200916.png)
 
