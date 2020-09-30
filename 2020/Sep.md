@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/202009100.png)
+![avatar](images/2020091000.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -34,7 +34,7 @@ sidebar:
 
 ## <font size="4" >2.1 “火花学院官网”新功能上线</font>
 
-- 《立体几何真题集》电子书上架；（桌面端、android端已同步更新）
+- 《立体几何真题集》电子书上架；（以下功能桌面端、android端已同步上线）
 
 &nbsp; 1）详情页可打包抢购“纸质书+电子书”；
 
