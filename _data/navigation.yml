@@ -69,7 +69,9 @@ header:
       - title:  7月
         url:    /2020/Jul  
       - title:  8月
-        url:    /2020/Aug    
+        url:    /2020/Aug 
+      - title:  9月
+        url:    /2020/Sep   
         
         
 project:
@@ -101,7 +103,9 @@ project:
       - title:  7月项目进度
         url:    /project/Jul
       - title:  8月项目进度
-        url:    /project/Aug   
+        url:    /project/Aug
+      - title:  9月项目进度
+        url:    /project/Sep 
         
             
 layouts:
