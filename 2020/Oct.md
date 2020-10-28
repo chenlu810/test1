@@ -12,7 +12,7 @@ sidebar:
 
 <bro/><bro/>
 
-![avatar](images/2020091000.png)
+![avatar](images/20201001.png)
 
 # <font size="5" color="gray">一、内容制作</font>
 
@@ -20,15 +20,15 @@ sidebar:
 
 - 9月新上架素材217个(因版权问题及素材替换下架137个)、微课7个。
 
-![avatar](images/20200901.png)
+![avatar](images/20201002.png)
 
 部分素材展示
 
-![avatar](images/20200902.png)
+![avatar](images/20201003.png)
 
-![avatar](images/20200903.png)
+![avatar](images/20201004.png)
 
-![avatar](images/20200904.png)
+![avatar](images/20201005.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
@@ -90,17 +90,16 @@ sidebar:
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花学院服务号“火花学院”关注总人数3643人，9月新增252人，发表文章3篇，总阅读量8680次，总转发量920次。
+- 火花学院服务号“火花学院”关注总人数3838人，10月新增195人，发表文章2篇，总阅读量5510次，总转发量350次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[教师节｜送给老师的100分](https://mp.weixin.qq.com/s/8BpyMxnKZc_6OQxzBq02rg)|	718|
-[新书首发｜用技术让思维看得见](https://mp.weixin.qq.com/s/MwXJEAfyE2Sje9NROEIEmA)|	681|
-[军训迷惑行为大赏](https://mp.weixin.qq.com/s/_BVoK0TzDX4SgsJLW5FZgQ)|	319|
+[国庆带特产指南，转给你在外浪的朋友们](https://mp.weixin.qq.com/s/S5OTZ-LLbwq5dMXrENegyA)|	1194|
+[真·名媛速成班，一起拼单吗？](https://mp.weixin.qq.com/s/2tglqIWu8t0_k2by8SNIlw)|	412|
 
-- 火花学院订阅号“火花名师汇”关注总人数238人，发表文章1篇，阅读量758次，阅读人数478人。
+- 火花学院订阅号“火花名师汇”关注总人数239人。
 
-- 火花微博“火花官方”发表微博10篇，阅读总数2.21w。
+- 火花微博“火花官方”发表微博10篇，阅读总数1.6w。
 
 - 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达140w。
 
