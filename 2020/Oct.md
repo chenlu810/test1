@@ -18,7 +18,7 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 9月新上架素材217个(因版权问题及素材替换下架137个)、微课7个。
+- 10月新上架素材30个、微课6个。
 
 ![avatar](images/20201002.png)
 
@@ -84,9 +84,9 @@ sidebar:
 
 ## <font size="4" >3.1 公开课支撑</font>
 
-常规公开课支撑3次。
+常规公开课支撑5次。
 
-![avatar](images/20200914.png)
+![avatar](images/20201013.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
@@ -107,20 +107,18 @@ sidebar:
 
 ## 2020年上半年已立项项目
 
-- 9月共结题2个项目：其中按期结题项目1个（模型1.0）、延期结题项目1个（科学可视化真题集-《立体几何》），截至目前，在建项目共6个。
+- 截至目前，在建项目共6个。
 
-- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Sep.md)。
+- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Oct.md)。
  
-![avatar](images/20200915.png)
+![avatar](images/20201014.png)
 
 ## 2020年下半年已立项项目
 
-- 9月新立项4个项目：鲁科版物理配套素材开发、高中地理必修一课程包项目、小学数学课程包建设、学科工具库；
+- 截至目前，在建项目共6个。
 
-- 9月按期结题2个项目：火花课程包方案设计、高中数学课程包，截至目前，在建项目共6个。
-
-- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Sep.md)。
+- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Oct.md)。
  
-![avatar](images/20200916.png)
+![avatar](images/20201015.png)
 
 
