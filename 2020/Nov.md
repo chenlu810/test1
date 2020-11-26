@@ -117,17 +117,17 @@ sidebar:
 
 ## 2020年上半年已立项项目
 
-- 截至目前，在建项目共6个。
+- 截至目前，在建项目共4个。
 
-- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Oct.md)。
+- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Nov.md)。
  
 ![avatar](images/202010014.png)
 
 ## 2020年下半年已立项项目
 
-- 截至目前，在建项目共6个。
+- 截至目前，在建项目共5个。
 
-- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Oct.md)。
+- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Nov.md)。
  
 ![avatar](images/202010015.png)
 
