@@ -46,9 +46,9 @@ sidebar:
 
 ![avatar](images/20201107.png)
 
-## <font size="4" >2.3 B站上架“人体微课”专题</font>
+## <font size="4" >2.3 “火花学院”公众号上架人体微课专题</font>
 
-- [微课资源详情请点击](https://wx-microlecture.huohuaschool.com/bilibili/microlecture/topic/list)
+![avatar](images/20201109.png)
 
 ## <font size="4" >2.4 教师派（pc端桌面）页面升级
   
