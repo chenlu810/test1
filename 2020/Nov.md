@@ -48,7 +48,7 @@ sidebar:
 
 ## <font size="4" >2.3 B站上架“人体微课”专题</font>
 
-- 详情请点击：
+- [微课资源详情请点击]|(https://wx-microlecture.huohuaschool.com/bilibili/microlecture/topic/list)
 
 ## <font size="4" >2.4 教师派（pc端桌面）页面升级
   
