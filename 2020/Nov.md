@@ -99,7 +99,7 @@ sidebar:
 
 - 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Nov.md)。
  
-![avatar](images/2020111190.png)
+![avatar](images/202011190.png)
 
 ## 2020年下半年已立项项目
 
