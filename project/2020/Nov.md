@@ -35,7 +35,7 @@ sidebar:
 | 项目令号       |  项目名称  |项目计划周期  |   点击进入单项目进度详情页  |
 |-------------  |:------:|:------:|:------:|
 |XY-2020-nr11|火花课程包方案设计|2020.08.01-2020.09.30|[按期结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=24150672)|
-|XY-2020-nr12|高考物理课程包|2020.08.01-2020.10.31|延期结题|(http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=29229185)
+|XY-2020-nr12|高考物理课程包|2020.08.01-2020.10.31|进行中|(http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=29229185)
 |XY-2020-nr13|火花素材优化1.0|2020.08.06-2020.12.15|进行中|
 |XY-2020-nr14|高中数学课程包|2020.08.05-2020.09.30|[按期结题](http://wiki.huohuaschool.com/confluence/pages/viewpage.action?pageId=26542127)|
 |XY-2020-nr15|鲁科版物理配套素材开发|2020/09/01-2020/11/30|进行中|
