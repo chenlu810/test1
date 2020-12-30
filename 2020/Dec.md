@@ -18,17 +18,17 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 11月新上架素材41个。
+- 12月新上架素材 个。
 
-![avatar](images/20201102.png)
+![avatar](images/20201201.png)
 
 部分素材展示
 
-![avatar](images/20201103.png)
+![avatar](images/20201202.png)
 
-![avatar](images/20201104.png)
+![avatar](images/20201203.png)
 
-![avatar](images/20201105.png)
+![avatar](images/20201204.png)
 
 # <font size="5" color="gray">二、软件开发</font>
 
@@ -74,37 +74,43 @@ sidebar:
 
 常规公开课支撑8次。
 
-![avatar](images/20201118.png)
+![avatar](images/20201210.png)
 
 ## <font size="4" >3.2 品牌运营</font>
 
-- 火花学院服务号“火花学院”关注总人数4025人，11月新增187人，发表文章2篇，总阅读量4006次，总转发量206次。
+- 火花学院服务号“火花学院”关注总人数4228人，12月新增203人，发表文章2篇，总阅读量4058次，总转发量304次。
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[充了会员的人可以有多凡尔赛？](https://mp.weixin.qq.com/s/BRLbmWkFekDwl6mnYe5dHw)|	417|
-[双十一买买买图鉴](https://mp.weixin.qq.com/s/IxpUz3iSpMU2V1t2bAL_uA)|	297|
+[377万人今天考研，你有学历焦虑吗？](https://mp.weixin.qq.com/s/YHX6i6VS68rE_v3eJd3vHA)|	482|
+[“AR安徽非遗APP”上线啦，快来把非遗精品带回家！](https://mp.weixin.qq.com/s/FnOLG2fulEU7ox0fby-9eQ)|432|
 
 - 火花学院订阅号“火花名师汇”关注总人数242人。
 
-- 火花微博“火花官方”发表微博11篇，阅读总数1.7w。
+- 火花微博“火花官方”发表微博10篇，阅读总数1.3w。
 
-- 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达197w。
+- 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达240w。
 
 # <font size="5" color="gray">四、项目进展</font>
 
 ## 2020年上半年已立项项目
 
-- 本月结题项目：物质科学课程建设1.0、化学课程建设与应用，截至目前，在建项目共4个。
+- 本月共提前结题2个项目：高中物理素材库1.0建设（一期）、火花学院客户端；
 
-- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Nov.md)。
+- 终止1个项目：在线项目式学习单元（第二期），截至目前，在建项目共1个。
+
+- 项目进程见下，详情请点击[2020年上半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Dec.md)。
  
-![avatar](images/2020111900.png)
+![avatar](images/20201211.png)
 
 ## 2020年下半年已立项项目
 
-- 截至目前，在建项目共6个。
+- 本月新立项1个项目：生命科学课程包；
 
-- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Nov.md)。
+- 按期结题2个项目：学科工具库、火花素材优化1.0截至目前；
+
+- 终止1个项目：高考物理课程包，截至目前，在建项目共4个。
+
+- 项目进程见下，详情请点击[2020年下半年已立项项目进展](https://github.com/Xiyue-team/doc_monthlyreport/blob/master/project/2020/Dec.md)。
  
-![avatar](images/202011220.png)
+![avatar](images/20201212.png)
