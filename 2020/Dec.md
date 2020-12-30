@@ -42,9 +42,11 @@ sidebar:
 
 ![avatar](images/20201206.png)
 
+![avatar](images/20201207.png)
+
 - 登录界面新增“图形验证”功能；
 
-![avatar](images/20201207.png)
+![avatar](images/20201208.png)
 
 ## <font size="4" >2.2火花学院官网</font>
   
