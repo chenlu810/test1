@@ -85,7 +85,7 @@ sidebar:
 
 ## <font size="4" >3.3 B站运营</font>
 
-- 外接球系列保姆级提分合集（13个视频）更新:[观看请点击](https://www.bilibili.com/video/BV18z4y1y7vn)； 
+- 外接球系列保姆级提分合集（13个视频）更新,[观看请点击](https://www.bilibili.com/video/BV18z4y1y7vn)； 
 
 ![avatar](images/20201217.png)
 
