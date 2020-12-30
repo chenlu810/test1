@@ -93,7 +93,7 @@ sidebar:
 
 - 生物系列之令人心动的《人体》微课指南：第一章、第二章微课视频已更新;
 
-- [观看请点击](https://www.bilibili.com/video/BV1Lh411f71p);
+- [观看请点击](https://www.bilibili.com/video/BV1Lh411f71p)
 
 ![avatar](images/20201218.png)
 
