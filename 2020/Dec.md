@@ -85,9 +85,7 @@ sidebar:
 
 - B站-火花精品课上新：1）13个数学八大模型视频已上传至b站平台  2）生物-人体导视以及第一章、第二章微课视频已更新至站平台
 
-![avatar](images/20201213.png)
-
-![avatar](images/20201214.png)
+![avatar](images/20201215.png)
 
 # <font size="5" color="gray">四、项目进展</font>
 
