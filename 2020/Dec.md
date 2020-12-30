@@ -18,7 +18,7 @@ sidebar:
 
 ## <font size="4" >1.1 新增内容</font>
 
-- 12月新上架素材 个。
+- 12月新上架素材71个。
 
 ![avatar](images/20201201.png)
 
