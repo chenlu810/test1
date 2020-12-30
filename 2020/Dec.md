@@ -85,11 +85,15 @@ sidebar:
 
 ## <font size="4" >3.3 B站运营</font>
 
-- 上架外接球系列保姆级提分合集（13个视频）&nbsp;&nbsp;&nbsp;[观看请点击](https://www.bilibili.com/video/BV18z4y1y7vn)； 
+- 上架外接球系列保姆级提分合集（13个视频）;
+
+- [观看请点击](https://www.bilibili.com/video/BV18z4y1y7vn)
 
 ![avatar](images/20201217.png)
 
-- 生物系列之令人心动的《人体》微课指南：第一章、第二章微课视频已更新&nbsp;&nbsp;&nbsp;[观看请点击](https://www.bilibili.com/video/BV1Lh411f71p);
+- 生物系列之令人心动的《人体》微课指南：第一章、第二章微课视频已更新;
+
+- [观看请点击](https://www.bilibili.com/video/BV1Lh411f71p);
 
 ![avatar](images/20201218.png)
 
