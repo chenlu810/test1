@@ -83,9 +83,15 @@ sidebar:
 
 - 截至本月底，腾讯、爱奇艺、b站、优酷四大网站视频播放总量达240w。
 
-- B站-火花精品课上新：1）13个数学八大模型视频已上传至b站平台  2）生物-人体导视以及第一章、第二章微课视频已更新至站平台
+## <font size="4" >3.3 B站运营</font>
 
-![avatar](images/20201216.png)
+- 外接球系列保姆级提分合集（13个视频）更新:观看[请点击](https://www.bilibili.com/video/BV18z4y1y7vn)； 
+
+![avatar](images/20201217.png)
+
+- 生物系列之令人心动的《人体》微课指南:第一章、第二章微课视频已更新,观看[请点击]（https://www.bilibili.com/video/BV1Lh411f71p）;
+
+![avatar](images/20201218.png)
 
 # <font size="5" color="gray">四、项目进展</font>
 
