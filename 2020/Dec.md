@@ -87,7 +87,7 @@ sidebar:
 
 - [观看请点击](https://www.bilibili.com/video/BV1Lh411f71p)
 
-![avatar](images/20201218.png)
+![avatar](images/202012018.png)
 
 # <font size="5" color="gray">四、项目进展</font>
 
