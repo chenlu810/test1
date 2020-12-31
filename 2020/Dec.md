@@ -44,7 +44,7 @@ sidebar:
 
 # <font size="5" color="gray">三、运营支撑</font>
 
-## <font size="4" >3.1 推出两个运营活动（移动端同步推出）</font>
+## <font size="4" >3.1 桌面端、移动端推出两个运营活动</font>
 
 - 活动一：教参直降&nbsp;低至二折起；
 
