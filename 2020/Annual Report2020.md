@@ -13,16 +13,16 @@ sidebar:
 <img src="images/20199001.png" width="800"/>
 
 
-# <font size="5" color="gray">一、自有内容生态形成</font>
+# <font size="5" color="gray">一、产品体系形成</font>
 
-## <font size="4" >1.1 素材产出翻两番，小初基本覆盖</font>
+## <font size="4" >1.1 素材库扩充</font>
 
-- 2019年自研素材（微件、3d、视频）2181个，较上年（424）增长414%。
+- 2020年自研素材（微件、视频、3d）3657个，较上年（2833）增长29%。
 
 <font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分科目自研素材新增&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018、2019年分类型自研素材新增</font>
 
 
-<img src="images/20199002.png" width="800"/>
+<img src="images/20201301.png" width="800"/>
 
 ## <font size="4" >1.2 新增“课程”产品，内容生态形成</font>
 
