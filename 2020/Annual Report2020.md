@@ -29,9 +29,9 @@ sidebar:
 
 - “火花课程包”是基于火花学院打造的特色课程库，帮助老师减负增效，提升课堂教学质量。
 
-- 新增8个课程包。
+- 新增小初高学段课程包8个。
 
-<img src="images/20201303.png" width="800"/>
+<img src="images/202013003.png" width="800"/>
 
 # <font size="5" color="gray">二、软件优化升级</font>
 
