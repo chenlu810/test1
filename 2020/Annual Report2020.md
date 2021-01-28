@@ -10,212 +10,115 @@ sidebar:
 ---
 
 
-<img src="images/20199001.png" width="800"/>
+<img src="images/20201300.png" width="800"/>
 
 
 # <font size="5" color="gray">一、产品体系形成</font>
 
-## <font size="4" >1.1 素材库扩充</font>
+## <font size="4" >1.1 明确两大产品线（素材库、课程包）</font>
 
-- 2020年自研素材（微件、视频、3d）3657个，较上年（2833）增长29%。
+<img src="images/20201304.png" width="800"/>
 
-<img src="images/20201301.png" width="800"/>
+## <font size="4" >1.2 火花素材库扩充 </font>
 
-## <font size="4" >1.2 新增“火花课程包”，产品体系形成</font>
+- 2020年新增素材824个，其中微件483个，视频256个，3D 85个，各学科、各种类的素材均呈增长趋势。
 
-- “火花素材库+火花课程包”产品体系已形成。
+## <font size="4" >1.3 火花课程包初期建设完成 </font>
 
-<img src="images/20201302.png" width="800"/>
+- 提供老师所需的基于“科学可视化”的完整、便捷的教学资料集，形成闭环。
 
-- “火花课程包”是基于火花学院打造的特色课程库，帮助老师减负增效，提升课堂教学质量。
+- 小初高常规型课程包-9套
 
-- 新增小初高学段课程包8个，包括课件413个，教学设计238个，习题114个，微课241个，实验报告35个，教参书2本。
+<img src="images/20201305.png" width="800"/>
 
-<img src="images/202013003.png" width="800"/>
+- 创新型PBL课程包-7个单元 （打不死的耐药菌、飞行的热气球、移民外太空、修理厂的磁铁、草原生态系统、城市发电厂、气压与风向）
+
+<img src="images/20201306.png" width="800"/>
 
 # <font size="5" color="gray">二、软件优化升级</font>
 
-## <font size="4" >2.1 客户端优化升级</font>
+## <font size="4" >2.1 产品优化</font>
 
-- 新增火花首页，支持运营广告位展示；
+- 官网：UI框架更新，增加个人中心板块及VIP功能；
 
-- 新增编辑推荐资源、教学案例展示、名校课程栏目、我的课程，更好的满足教师需求；
+<img src="images/20201307.png" width="800"/>
 
-- 按照新的UI设计标准重新优化，进一步提升产品设计感和用户体验。
+- 客户端、移动端3.0上线：1.界面改版-新增运营活动、编辑推荐、微课专题
 
-## <font size="4" >2.2 第三方页面嵌入</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.新增资源管理功能-支持添加精品资源至我的资源
 
-- 将火花资源页面嵌入到第三方产品，比如戴特备课助手，智能大屏等，与第三方形成资源+工具产品矩阵，共同提升产品竞争力，达到互利共赢目的。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.新增VIP功能
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;戴特备课助手集成页面</font>
+<img src="images/20201308.png" width="800"/>
 
-<img src="images/20199992.png" width="800"/>
+- 火花书屋：1. 全年下载量达50w；
 
-## <font size="4" >2.3 新产品形式探索</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
 
-- 火花闪现：web版编辑器，为教师教学创作提供更随身、轻便的解决方案。
+<img src="images/20201309.png" width="800"/>
 
-<img src="images/20199994.png" width="800"/>
+## <font size="4" >2.2 微件框架更新至2.0</font>
 
-- 火花学院PowerPoint插件：更好的适应教师备课习惯。   
+- 使用户可快速掌握火花产品的使用方法、操作更简便，并保证了体验的一致性。
 
-<img src="images/20199993.png" width="800"/>
+<img src="images/20201310.png" width="800"/>
 
-- 火花书屋：七本火花数字教参独立上架App Store。
+# <font size="5" color="gray">三、运营成果</font>
 
-<img src="images/20199995.png" width="300"/>
+## <font size="4" >3.1 渠道建设</font>
 
-## <font size="4" >2.4 新增内容生产工具</font>
+- 截至目前，广州智慧教育公共服务平台上，已累计千万人次进行可视化学习。
 
-- 新增多种学科素材制作工具，包括画廊，交互式图像，图像切换等，既为老师自主创作提供方便，也为素材开发提供标准化工具，提升效率。
+- 2020年，近40w人于学科网进行火花资源的学习。
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;画廊、知识分类、弹出项
-</font>
+<img src="images/201201311.png" width="800"/>
 
-<img src="images/20199996.png" width="800"/>
+- “丰县人民路小学项目”校本资源平台一期交付：2个课程包（含教学设计80个、课件190个、素材81个）、7个PBL创新型课程
 
-## <font size="4" >2.5 PBL学习单元上线</font>
+<img src="images/201201312.png" width="800"/>
 
-- 火花学院在2019年与合肥市包河区生物教研组合作，打造一款线上项目式学习产品——物种的遗传。它通过让学生自主探究，培育一条自己喜欢的狗，从而促进学生回顾和应用遗传学相关知识。
+- 与山东科学技术出版社 合作开发7本鲁科版新教材配套资源
 
-<img src="images/20199997.png" width="800"/>
+<img src="images/201201313.png" width="800"/>
 
-# <font size="5" color="gray">三、运营框架体系建成</font>
+- 大连三十六中、成都外国语学校五龙山校区两所示范校建设中。
 
-## <font size="4" >3.1 运营团队成立</font>
+<img src="images/201201314.png" width="350"/>
 
-<img src="images/20199111.png" width="600"/>
+## <font size="4" >3.2 运营数据增长</font>
 
-## <font size="4" >3.2 渠道初步建设</font>
+- 公开课支撑：已知参赛情况的公开课获奖率达100%，一等奖获奖率超60%。
 
-- 火花学院与与国内办公软件市场领导者”WPS“、中东地区最大的图书出版集团“数字未来”、教育行业头部内容资源站“学科网”等达成战略合作，未来将获得更为广泛的用户资源，极大的提升了在国内外教育行业的认知度。
+- 2020年C端用户1.6w，较去年（2986人）增长440%。
 
-<img src="images/20199998.png" width="800"/>
+- B端导入机构近3万，用户40万。
 
-- 火花学院与成都外国语学校、南京外国语学校达成样板校合作协议。
+- 五大网站（B站、腾讯、爱奇艺、抖音、优酷）视频播放量 较2019年呈飞跃式增长，2020年单视频最高播放量达17w。
 
-<img src="images/20199999.png" width="350"/>
+<img src="images/201201315.png" width="350"/>
 
-## <font size="4" >3.3 品牌体系升级</font>
+## <font size="4" >3.3 针对核心用户-年轻用户，在B站以视频合辑推广</font>
 
-- MI、VI、UI建设完成，并于9月举办2019“火花·不止所见”品牌升级发布会，统一公司产品设计规范及品牌形象输出。
+- 合辑一：常态化同步微课——与学校授课进度同步、以学段为单位进行常态化更新，维护粉丝活跃度。
 
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发布会海报、卡通IP阿福</font>
+<img src="images/201201316.png" width="800"/>
 
-<img src="images/20199989.png" width="800"/>
+- 合辑二：火花精品课——包括高中数学-外接球系列保姆级提分合集、高中生物-生物人体系列课程。
 
-## <font size="4" >3.4 品牌形象输出</font>
+<img src="images/201201317.png" width="800"/>
 
-- 卡通表情包
-
-火花学院形象代言人阿福微信表情包，目前有24个表情。
-
-<font size="3" >部分表情包展示</font>
-
-<img src="images/开学季3_光明正大的学习.gif" width="100"/><img src="images/开学季8_祖国的花朵.gif" width="100"/><img src="images/开学季10_狂补作业.gif" width="100"/>
-
-- 海报发布
-
-自2019年8月～12月，发布海报33张，其中朋友圈和抖音落地页海报6张，品牌推广类海报3张，节气类海报8张，节日类海报16张。
-
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分节点海报</font>
-
-<img src="images/20199987.png" width="800"/>
-
-- 稿件发布
-
-<img src="images/20199988.png" width="800"/>
-
-## <font size="4" >3.5 自媒体数据增长</font>
-
-- 对公司现有的自媒体账号（火花学院服务号、火花名师汇订阅号、微博火花官方、抖音火花学院、爱奇艺火花学院、优酷火花学院、腾讯火花学院）进行重新定位，以目标用户为导向，输出传播内容。
-
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;火花学院抖音号</font>
-
-<img src="images/20199986.png" width="300"/>
-
-- 阅读量排名前五文章
+## <font size="4" >3.4 阅读量排名前五的公众号推文，粉丝增长25% </font>
 
 | 推文名称 |  阅读人数  | 
 |-------------|:------:|
-[学不好数理化是因为脑子笨？或许只是因为……](https://mp.weixin.qq.com/s/WL6vqBW2r5MzBz2uWZyqVA)|	8459|
-[中国人该不该过圣诞节？](https://mp.weixin.qq.com/s/q4WdHCcUgfA3jAdUjyLGkw)|	3399|
-[双十二指南：科学花钱让人更快乐](https://mp.weixin.qq.com/s/x4wuMlC5Sey5jsydImkK6A)|	1663|
-[如何用科学方法找男/女朋友]()|	1593|
-[“人人都是班干部”是教育探索，还是官场遗风？](https://mp.weixin.qq.com/s/fiiPn1LynE8zZ6mKVndDCw)|	1555|
+[火花学院微课全平台免费上线啦！](https://mp.weixin.qq.com/s/4kj6ofPltC6lywC2lUUWUQ)|	5078|
+[今日清明，别怕，我们来聊聊死亡](https://mp.weixin.qq.com/s/tYfeexzjWgDn3KLrwi47WA)|	2696|
+[停课不停学 轻松掌握重难点](https://mp.weixin.qq.com/s/x4wuMlC5Sey5jsydImkK6A)|	1921|
+[复课后，他们选择自杀。](https://mp.weixin.qq.com/s/yljMO7-EggoHltuQA3yPkg)|	1669|
+[雨҈雨҈雨҈雨҈我҈被҈淹҈了҈雨҈雨҈雨҈雨҈](https://mp.weixin.qq.com/s/RpPWjrYvbobpx-xBwkH7zw)|	1515|
 
-## <font size="4" >3.6 线上活动推广</font>
+# <font size="5" color="gray">四、项目建设</font>
 
-- 2019年，主要通过双微活动推广，增强与粉丝之间的粘性及互动。
+- 2020年立项23个项目，顺利结题14个，结题率83%，按期结题率70%，13个项目经费有余。
 
-<img src="images/20199112.png" width="400"/>
-
-<font size="2" color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分活动海报</font>
-
-<img src="images/20199113.png" width="800"/>
-
-## <font size="4" >3.6 公开课覆盖范围扩大</font>
-
-- 12省65节，一等奖获奖率64%。
-
-<img src="images/20190022.png" width="600"/>
-
-# <font size="5" color="gray">四、项目制运行良好</font>
-
-## <font size="4" >4.1 组织架构形成</font>
-
-<img src="images/20199114.png" width="600"/>
-
-## <font size="4" >4.2 整体结题顺利</font>
-
-- 2019年立项33个，完成结题29个，结题率81%（不含冻结项目）。
-
-<img src="images/20199983.png" width="800"/>
-
-## <font size="4" >4.3 优秀表彰</font>
-
-- 项目类
-
-**<font color="gray">优秀项目（综合）：</font>**
-
-**<font color="orange">金奖&nbsp;&nbsp;-&nbsp;&nbsp;初中生物</font>**
-
-**<font color="orange">银奖&nbsp;&nbsp;-&nbsp;&nbsp;初中化学、第三方嵌入式界面与火花书屋、火花工具库2.0</font>**
-
-**<font color="gray">优秀项目（专项）：</font>**
-  
-**<font color="orange">技术创新&nbsp;&nbsp;-&nbsp;&nbsp;窄带高清与视频保护、PBL</font>**
-
-**<font color="orange">效率执行&nbsp;&nbsp;-&nbsp;&nbsp;phet、课件模板</font>**
-
-**<font color="gray">优秀项目服务组：</font>**
-
-**<font color="orange">质量保障部</font>**
-
-- 个人类
-
-**<font color="gray">优秀项目经理：</font>**
-
-**<font color="orange">金奖&nbsp;&nbsp;-&nbsp;&nbsp;窦发</font>**
-
-**<font color="orange">银奖&nbsp;&nbsp;-&nbsp;&nbsp;张明申、项性杰、沈阳</font>**
-
-**<font color="gray">优秀项目成员（综合）：</font>**
-
-**<font color="orange">张柳、鲍志国、田雪、张泽鑫、王侯杰</font>**
-
-**<font color="gray">优秀项目成员（专项）：</font>**
-
-**<font color="orange">创意&nbsp;&nbsp;-&nbsp;&nbsp;杨晓艳、侯媛媛、高磊、秦怡</font>**
-
-**<font color="orange">攻坚&nbsp;&nbsp;-&nbsp;&nbsp;李浩、张鑫、廖伟业、方朝阳</font>**
-
-**<font color="gray">优秀实习生：</font>**
-
-**<font color="orange">胡小蕾</font>**
-		
-**<font color="gray">特别贡献奖：</font>**
-
-**<font color="orange">刘源书雯</font>**
-
-<img src="images/20196666.png" width="800"/>
+<img src="images/20201318.png" width="600"/>
