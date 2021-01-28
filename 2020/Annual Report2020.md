@@ -43,13 +43,17 @@ sidebar:
 
 &nbsp;&nbsp;&nbsp;1）新增VIP功能；
 
-&nbsp;&nbsp;&nbsp;2：界面改版-新增运营活动、编辑推荐、微课专题；
+&nbsp;&nbsp;&nbsp;2）界面改版-新增运营活动、编辑推荐、微课专题；
 
 &nbsp;&nbsp;&nbsp;3）新增资源管理功能-支持添加精品资源至我的资源。
 
 <img src="images/20211308.png" width="800"/>
 
-- 火花书屋：1. 全年下载量达50w；&nbsp;2. 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
+- 火花书屋
+
+&nbsp;&nbsp;&nbsp;1）全年下载量达50w；
+
+&nbsp;&nbsp;&nbsp;2） 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
 
 <img src="images/20211309.png" width="350"/>
 
