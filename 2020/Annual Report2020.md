@@ -27,8 +27,6 @@ sidebar:
 
 <img src="images/202013005.png" width="800"/>
 
-类型二：创新型PBL课程包-7个单元
-
 <img src="images/2020120006.png" width="800"/>
 
 # <font size="5" color="gray">二、软件优化升级</font>
