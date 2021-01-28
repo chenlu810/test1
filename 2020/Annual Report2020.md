@@ -21,15 +21,13 @@ sidebar:
 
 - 火花素材库扩充：2020年新增素材824个，其中微件483个，视频256个，3D 85个，各学科、各种类的素材均呈增长趋势。
 
-- 火花课程包初期建设完成：
+- 火花课程包初期建设完成：提供老师所需的基于“科学可视化”的完整、便捷的教学资料集，形成闭环。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1）提供老师所需的基于“科学可视化”的完整、便捷的教学资料集，形成闭环；
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2）小初高常规型课程包-9套
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小初高常规型课程包-9套
 
 <img src="images/20201305.png" width="800"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3）创新型PBL课程包-7个单元 （打不死的耐药菌、飞行的热气球、移民外太空、修理厂的磁铁、草原生态系统、城市发电厂、气压与风向）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;创新型PBL课程包-7个单元 （打不死的耐药菌、飞行的热气球、移民外太空、修理厂的磁铁、草原生态系统、城市发电厂、气压与风向）
 
 <img src="images/20201306.png" width="800"/>
 
