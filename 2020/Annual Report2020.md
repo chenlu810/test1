@@ -55,7 +55,7 @@ sidebar:
 
 &nbsp;&nbsp;&nbsp;2） 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
 
-<img src="images/20211309.png" width="350"/>
+<img src="images/20211309.png" width="400"/>
 
 ## <font size="4" >2.2 微件框架更新至2.0</font>
 
@@ -75,11 +75,11 @@ sidebar:
 
 - “丰县人民路小学项目”校本资源平台一期交付：2个课程包（含教学设计80个、课件190个、素材81个）、7个PBL创新型课程
 
-<img src="images/20211312.png" width="800"/>
+<img src="images/20211312.png" width="400"/>
 
 - 与山东科学技术出版社 合作开发7本鲁科版新教材配套资源
 
-<img src="images/20211313.png" width="800"/>
+<img src="images/20211313.png" width="600"/>
 
 - 大连三十六中、成都外国语学校五龙山校区两所示范校建设中。
 
