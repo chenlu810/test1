@@ -39,11 +39,7 @@ sidebar:
 
 <img src="images/20211307.png" width="800"/>
 
-- 客户端、移动端3.0上线：1.界面改版-新增运营活动、编辑推荐、微课专题
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.新增资源管理功能-支持添加精品资源至我的资源
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.新增VIP功能
+- 客户端、移动端3.0上线：1.界面改版-新增运营活动、编辑推荐、微课专题；2.新增资源管理功能-支持添加精品资源至我的资源；3.新增VIP功能。
 
 <img src="images/20211308.png" width="800"/>
 
