@@ -43,9 +43,7 @@ sidebar:
 
 <img src="images/20211308.png" width="800"/>
 
-- 火花书屋：1. 全年下载量达50w；
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
+- 火花书屋：1. 全年下载量达50w；&nbsp;2. 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
 
 <img src="images/20211309.png" width="800"/>
 
