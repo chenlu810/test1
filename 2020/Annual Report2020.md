@@ -35,23 +35,23 @@ sidebar:
 
 ## <font size="4" >2.1 产品优化</font>
 
-- 官网：UI框架更新，增加个人中心板块及VIP功能；
+- **官网**：UI框架更新，增加个人中心板块及VIP功能；
 
 <img src="images/202113007.png" width="800"/>
 
-- 客户端、移动端3.0上线
+- **客户端、移动端3.0上线**
 
-&nbsp;&nbsp;&nbsp;1）新增VIP功能；2）界面改版-新增运营活动、编辑推荐、微课专题；
+&nbsp;&nbsp;&nbsp;1）新增VIP功能；
+
+&nbsp;&nbsp;&nbsp;2）界面改版-新增运营活动、编辑推荐、微课专题；
 
 &nbsp;&nbsp;&nbsp;3）新增资源管理功能-支持添加精品资源至我的资源。
 
 <img src="images/20211308.png" width="800"/>
 
-- 火花书屋
+- **火花书屋**
 
-&nbsp;&nbsp;&nbsp;1）全年下载量达50w；
-
-&nbsp;&nbsp;&nbsp;2） 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
+&nbsp;&nbsp;&nbsp;1）全年下载量达50w；2） 11本火花数字教参已全部独立上架Appstore（其中7本于2019年上架），其它应用渠道部分上架。
 
 <img src="images/20211309.png" width="400"/>
 
