@@ -25,7 +25,7 @@ sidebar:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**类型一**：常规型课程包-9套
 
-<img src="images/20201300005.png" width="800"/>
+<img src="images/202013000005.png" width="800"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**类型二**：创新PBL课程包-7个单元
 
