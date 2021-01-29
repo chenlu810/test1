@@ -23,11 +23,11 @@ sidebar:
 
 - 火花课程包初期建设完成：提供老师所需的基于“科学可视化”的完整、便捷的教学资料集，形成闭环。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;类型一：常规型课程包-9套
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**类型一**：常规型课程包-9套
 
 <img src="images/202013005.png" width="800"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;类型二：创新PBL课程包-7个单元
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**类型二**：创新PBL课程包-7个单元
 
 <img src="images/202013006.png" width="800"/>
 
