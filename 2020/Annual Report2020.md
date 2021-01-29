@@ -29,7 +29,7 @@ sidebar:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**类型二**：创新PBL课程包-7个单元
 
-<img src="images/202013006.png" width="800"/>
+<img src="images/202013000006.png" width="800"/>
 
 # <font size="5" color="gray">二、软件优化升级</font>
 
@@ -75,7 +75,7 @@ sidebar:
 
 - 与山东科学技术出版社 合作开发7本鲁科版新教材配套资源
 
-<img src="images/202113012.png" width="800"/>
+<img src="images/202112012.png" width="800"/>
 
 - 大连三十六中、成都外国语学校五龙山校区两所示范校建设中。
 
