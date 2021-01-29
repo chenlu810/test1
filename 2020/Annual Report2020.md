@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-<img src="images/20201300.png" width="800"/>
+<img src="images/202013000.png" width="800"/>
 
 
 # <font size="5" color="gray">一、产品体系形成</font>
