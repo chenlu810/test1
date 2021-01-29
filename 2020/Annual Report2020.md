@@ -37,7 +37,7 @@ sidebar:
 
 - 官网：UI框架更新，增加个人中心板块及VIP功能；
 
-<img src="images/20211307.png" width="800"/>
+<img src="images/202113007.png" width="800"/>
 
 - 客户端、移动端3.0上线
 
